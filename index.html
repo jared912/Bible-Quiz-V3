@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>What Bible Character Are You?</title>
+    <title>What Bible Character Are You? (V3)</title>
     <link rel="icon" href="smaller_images/vegetal_favicon.png" type="image/png">
     <style>
         @font-face {
@@ -122,6 +122,18 @@
             text-align: left;
         }
 
+        .result-image-container {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 12px;
+        }
+
+        .result-character-image {
+            width: 160px;
+            height: 160px;
+            object-fit: contain;
+        }
+
         .result-title {
             font-size: 22px;
             margin: 0 0 8px 0;
@@ -150,7 +162,7 @@
 </head>
 <body>
     <div class="container">
-        <div class="title">What Bible character are you?</div> 
+        <div class="title">What Bible character are you?</div>
         <img id="homescreen" style="padding-bottom: 15px" src="smaller_images/homepage.png" alt="Story Image"/>
         <a href="#" class="start-button" onclick="startGame()">Start</a>
         
@@ -164,9 +176,9 @@
 
     </div>
     
-    <script src="js/mainGame.js">
-    
-    </script>
+    <script src="js/data/characters.js"></script>
+    <script src="js/data/scenes.js"></script>
+    <script src="js/mainGame.js"></script>
     
     <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
     <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>

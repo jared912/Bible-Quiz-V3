@@ -8,7 +8,9 @@ What Bible character are you? A narrative choose-your-own-adventure personality 
 
 ## How it works (short version)
 
-- Each choice adds points to one or more hidden “score tags”.\n+- Those score tags map to **11 Bible character result buckets**.\n+- At the end, the character with the highest score is shown.
+- Each choice contributes to 5 personality dimensions.
+- At the end, your dimension scores are matched to the closest Bible character.
+- Results are gender-filtered (you choose Man/Woman at the start).
 
 ## Attribution
 
