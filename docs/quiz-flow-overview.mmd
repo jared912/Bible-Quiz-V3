@@ -1,0 +1,178 @@
+flowchart TD
+  classDef start fill:#fef3c7,stroke:#b45309
+  classDef fin fill:#dbeafe,stroke:#1d4ed8
+  classDef bridge fill:#f3f4f6,stroke:#6b7280
+  S1["Scene 1 (START)"]
+  class S1 start
+  S2["Scene 2 (First Branch)"]
+  S3["Scene 3"]
+  S4["Scene 4"]
+  S5["Scene 5"]
+  S6["Scene 6"]
+  S7["Scene 7 (Transition)"]
+  class S7 bridge
+  S8["Scene 8"]
+  S10["Scene 10"]
+  S12["Scene 12"]
+  S13["Scene 13 (FINAL QUESTION)"]
+  class S13 fin
+  S15["Scene 15"]
+  S16["Scene 16"]
+  S17["Scene 17 (Transition)"]
+  class S17 bridge
+  S18["Scene 18"]
+  S19["Scene 19"]
+  S20["Scene 20"]
+  S21["Scene 21"]
+  S22["Scene 22"]
+  S23["Scene 23 (Transition)"]
+  class S23 bridge
+  S24["Scene 24"]
+  S27["Scene 27"]
+  S28["Scene 28"]
+  S30["Scene 30"]
+  S32["Scene 32"]
+  S33["Scene 33"]
+  S34["Scene 34"]
+  S36["Scene 36"]
+  S37["Scene 37 (Transition)"]
+  class S37 bridge
+  S38["Scene 38"]
+  S39["Scene 39"]
+  S43["Scene 43"]
+  S44["Scene 44"]
+  S45["Scene 45"]
+  S46["Scene 46"]
+  S49["Scene 49"]
+  S50["Scene 50"]
+  S51["Scene 51"]
+
+  S1 -->|Bread, water, and an extra wat| S2
+  S1 -->|Coins — you never know what we| S2
+  S1 -->|A journal and ink — someone ha| S2
+  S1 -->|A knife — for fires, protectio| S2
+  S2 -->|Take the valley road — longest| S3
+  S2 -->|Climb the hills — steeper, but| S4
+  S2 -->|Follow the river — slow, and i| S5
+  S2 -->|Cut through the wilderness — s| S6
+  S3 -->|Turn the group around — walk h| S7
+  S3 -->|Fill her jars, mark the path, | S7
+  S3 -->|Press a coin into her hand and| S7
+  S3 -->|Make the group wait — sit with| S7
+  S4 -->|Take the steep switchback — lu| S15
+  S4 -->|Take the longer ridge walk — e| S15
+  S4 -->|Stop the group — make them vot| S15
+  S5 -->|Put down your pack — pick up a| S28
+  S5 -->|Wave, keep walking — don't bre| S28
+  S5 -->|Scan the bank — 'Who's watchin| S28
+  S5 -->|Keep your eyes on the star — w| S28
+  S6 -->|Point at the star — 'It's stil| S33
+  S6 -->|Stop walking — 'Turn back now | S33
+  S6 -->|Pass the lead to someone else | S33
+  S7 -->|Continue| S8
+  S8 -->|Empty the packs onto the groun| S49
+  S8 -->|Split every bag down the middl| S49
+  S8 -->|Don't share a bite of food unt| S49
+  S8 -->|Keep our food — but I'll go do| S49
+  S10 -->|Crouch down — point at the sta| S43
+  S10 -->|Pull her into the circle by th| S43
+  S10 -->|Admit you're scared — then ask| S43
+  S10 -->|Say nothing — just stay next t| S43
+  S12 -->|Pick up the pace — the star is| S19
+  S12 -->|Double the night watch — somet| S19
+  S12 -->|Find the person you've walked | S19
+  S13 -->|Walk to the roof or garden whe| R13["RESULT"]
+  S13 -->|Open the shop, field, or ledge| R13["RESULT"]
+  S13 -->|Gather your family at the tabl| R13["RESULT"]
+  S13 -->|Spread the map on the floor — | R13["RESULT"]
+  S15 -->|Point up — 'That star. We're w| S16
+  S15 -->|Shrug — 'Honestly? We don't kn| S16
+  S15 -->|Keep moving your feet — 'Trave| S16
+  S16 -->|Lean in — 'Explain that. What | S17
+  S16 -->|Drop your pack by the fire — '| S17
+  S16 -->|Sit cross-legged — 'You look l| S17
+  S17 -->|Continue| S50
+  S18 -->|Sit on the rock edge — let the| S19
+  S18 -->|Point at the glow on the horiz| S19
+  S18 -->|Walk the line — count heads, c| S19
+  S19 -->|Walk to the front — answer eve| S20
+  S19 -->|Link arms — no one speaks unle| S20
+  S19 -->|Scan the tree line — there has| S20
+  S19 -->|Smile, show empty hands, and l| S20
+  S20 -->|'Yes. Weird, I know. But here | S21
+  S20 -->|'We're pilgrims. We mean no tr| S21
+  S20 -->|'Curious travelers. That's all| S21
+  S21 -->|Wave him toward the road — 'Le| S22
+  S21 -->|'Thank you. We won't forget th| S22
+  S21 -->|'When you're ready — follow it| S22
+  S22 -->|Push through the stable door f| S51
+  S22 -->|Stop at the threshold — don't | S51
+  S22 -->|Catch someone's eye across the| S51
+  S22 -->|Drop to your knees right where| S51
+  S23 -->|Continue| S24
+  S24 -->|'I learned the journey matters| S27
+  S24 -->|'I learned to trust — even whe| S27
+  S24 -->|'I learned courage isn't the a| S27
+  S24 -->|'Still figuring that out. Ask | S27
+  S27 -->|Make a quiet promise to yourse| S13
+  S27 -->|'Goodbye, star. Thanks for the| S13
+  S27 -->|Look forward — to whatever's n| S13
+  S27 -->|Look back — and honor everythi| S13
+  S28 -->|Crouch by the water — 'You're | S45
+  S28 -->|Take the stone — throw once, b| S45
+  S28 -->|Ruffle the kid's hair — keep m| S45
+  S28 -->|Hold out your hand — 'Show me | S45
+  S30 -->|Clap him on the shoulder — 'Fi| S46
+  S30 -->|Look at his thin sandals — 'It| S46
+  S30 -->|Turn to the grandmother — 'Do | S46
+  S30 -->|Point back toward the village | S46
+  S32 -->|Pick up the pace — close the g| S19
+  S32 -->|Let them pull ahead — keep you| S19
+  S32 -->|Shout across the gap — 'Hey! W| S19
+  S33 -->|Comb through the ashes and tor| S34
+  S33 -->|Salvage what's usable — food, | S36
+  S33 -->|Stand over the cold fire — say| S34
+  S33 -->|Don't unpack — walk past witho| S36
+  S34 -->|Close the journal — 'Nobody wa| S37
+  S34 -->|Flip pages — 'They got farther| S37
+  S34 -->|Look at the tree line — 'Could| S37
+  S34 -->|Slip the journal into your pac| S37
+  S36 -->|Stand up — shout into the dark| S37
+  S36 -->|Reach for a branch, rock, or c| S37
+  S36 -->|Freeze — don't blink, don't br| S37
+  S36 -->|Touch shoulders one by one — w| S37
+  S37 -->|Continue| S38
+  S38 -->|Follow him to the house — acce| S19
+  S38 -->|Ask before you eat — 'What hav| S19
+  S38 -->|Pull out whatever map you have| S19
+  S38 -->|Roll up your sleeves — 'We'll | S19
+  S39 -->|Take his directions — send him| S44
+  S39 -->|'We saw what they did to that | S44
+  S39 -->|Split the group — volunteers s| S44
+  S39 -->|Refuse the shortcut — backtrac| S44
+  S43 -->|Stand up, brush off the dirt, | S39
+  S43 -->|Let them come closer — but kee| S39
+  S43 -->|Wave the kids behind you — 'Pr| S39
+  S43 -->|Grab the nearest adult's arm —| S39
+  S44 -->|Shoulder your pack and start w| S12
+  S44 -->|Circle up — hold hands, one mi| S12
+  S44 -->|Take the shepherd's bread — sa| S12
+  S44 -->|Make everyone drink water and | S12
+  S45 -->|Sit on the bench — tell her th| S30
+  S45 -->|Ask first — 'You've been watch| S30
+  S45 -->|Bow your head — 'We can't stop| S30
+  S46 -->|Line up at the log — 'One at a| S32
+  S46 -->|Turn downstream — 'We find a b| S32
+  S46 -->|Step onto the log — weight on | S32
+  S46 -->|Dig through packs — rope, belt| S32
+  S49 -->|Tell the story of the woman at| S10
+  S49 -->|Keep your mouth shut and watch| S10
+  S49 -->|Go around the circle — make ev| S10
+  S50 -->|Halt the whole column — 'We al| S18
+  S50 -->|Tear a strip from your pack — | S18
+  S50 -->|Kneel beside them — 'Go on. I'| S18
+  S50 -->|Pick the two biggest walkers —| S18
+  S51 -->|'We found it.'| S23
+  S51 -->|Stay silent — words would ruin| S23
+  S51 -->|Reach for whoever is standing | S23
+  S51 -->|Whisper a prayer| S23

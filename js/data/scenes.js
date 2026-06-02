@@ -8,7 +8,7 @@ window.BIBLE_QUIZ_V3_SCENES = {
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "Bread and water — I'm practical, not dramatic",
+        "label": "Bread, water, and an extra waterskin — basics covered",
         "nextId": 2,
         "women": [
           "Martha",
@@ -22,7 +22,7 @@ window.BIBLE_QUIZ_V3_SCENES = {
         ]
       },
       {
-        "label": "A small gift — in case we meet someone important",
+        "label": "Coins — you never know what we'll need to buy",
         "nextId": 2,
         "women": [
           "Ruth",
@@ -36,7 +36,7 @@ window.BIBLE_QUIZ_V3_SCENES = {
         ]
       },
       {
-        "label": "A journal — someone needs to document this chaos",
+        "label": "A journal and ink — someone has to write this down",
         "nextId": 2,
         "women": [
           "MaryMagdalene",
@@ -50,7 +50,7 @@ window.BIBLE_QUIZ_V3_SCENES = {
         ]
       },
       {
-        "label": "Nothing — if the star wanted me prepared, it would've given more notice",
+        "label": "A knife — for fires, protection… who knows what's out there",
         "nextId": 2,
         "women": [
           "Deborah",
@@ -67,63 +67,63 @@ window.BIBLE_QUIZ_V3_SCENES = {
   },
   "2": {
     "id": 2,
-    "text": "Dawn. The road splits four ways. Because of course it does. A merchant swears the valley is safe. A shepherd insists the hills are faster. Neither of them is coming with you. Helpful. So — which way?",
+    "text": "Dawn. The road splits four ways. Because of course it does. A merchant swears the valley is the safest road — if you don't mind the extra miles. A shepherd jabs his thumb at the hills — steeper, but a straighter line toward the light. Neither of them is coming with you. Helpful. So — which way?",
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "The valley — wide, well-traveled, probably has snacks",
+        "label": "Take the valley road — longest route, but safest",
         "nextId": 3,
         "women": [
           "Martha",
-          "Abigail",
+          "Ruth",
+          "Priscilla"
+        ],
+        "men": [
+          "Paul",
+          "Daniel",
+          "Moses"
+        ]
+      },
+      {
+        "label": "Climb the hills — steeper, but a straight line toward the star",
+        "nextId": 4,
+        "women": [
+          "Deborah",
+          "Priscilla",
           "Esther"
         ],
         "men": [
-          "Joseph",
+          "David",
           "Nehemiah",
           "Barnabas"
         ]
       },
       {
-        "label": "The hills — harder, but we didn't come here for easy",
-        "nextId": 4,
-        "women": [
-          "Deborah",
-          "Miriam",
-          "Priscilla"
-        ],
-        "men": [
-          "David",
-          "Moses",
-          "Elijah"
-        ]
-      },
-      {
-        "label": "The river — water knows things. I trust water.",
+        "label": "Follow the river — slow, and it might flood, but hard to get lost",
         "nextId": 5,
         "women": [
           "Ruth",
-          "MaryMotherOfJesus",
-          "Hannah"
-        ],
-        "men": [
-          "Abraham",
-          "Barnabas",
-          "Daniel"
-        ]
-      },
-      {
-        "label": "The wilderness — no path, just the star",
-        "nextId": 6,
-        "women": [
-          "Deborah",
-          "Miriam",
+          "MaryMagdalene",
           "MaryMotherOfJesus"
         ],
         "men": [
-          "David",
+          "Daniel",
+          "Peter",
+          "Nehemiah"
+        ]
+      },
+      {
+        "label": "Cut through the wilderness — shortest way, least safe",
+        "nextId": 6,
+        "women": [
+          "Deborah",
+          "Ruth",
+          "MaryMagdalene"
+        ],
+        "men": [
+          "Peter",
           "Moses",
-          "Elijah"
+          "Daniel"
         ]
       }
     ]
@@ -134,59 +134,59 @@ window.BIBLE_QUIZ_V3_SCENES = {
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "Help her, even if everyone complains",
+        "label": "Turn the group around — walk her toward the healer, even if we lose half a day",
         "nextId": 7,
         "women": [
+          "Miriam",
           "Ruth",
-          "Martha",
-          "MaryMotherOfJesus"
-        ],
-        "men": [
-          "Peter",
-          "Barnabas",
-          "Abraham"
-        ]
-      },
-      {
-        "label": "Draw water for her and point her in the right direction",
-        "nextId": 7,
-        "women": [
-          "Martha",
-          "Abigail",
-          "Priscilla"
-        ],
-        "men": [
-          "Joseph",
-          "Nehemiah",
-          "Paul"
-        ]
-      },
-      {
-        "label": "Offer some encouragement, then keep moving",
-        "nextId": 7,
-        "women": [
-          "MaryMotherOfJesus",
-          "MaryMagdalene",
-          "Esther"
-        ],
-        "men": [
-          "Abraham",
-          "Daniel",
-          "Paul"
-        ]
-      },
-      {
-        "label": "Tell everyone to wait while I sit with her",
-        "nextId": 7,
-        "women": [
-          "Ruth",
-          "MaryMotherOfJesus",
           "Hannah"
         ],
         "men": [
-          "Barnabas",
+          "David",
+          "Elijah",
+          "Joseph"
+        ]
+      },
+      {
+        "label": "Fill her jars, mark the path, and keep moving",
+        "nextId": 7,
+        "women": [
+          "Esther",
+          "Abigail",
+          "Ruth"
+        ],
+        "men": [
+          "Joseph",
+          "Peter",
+          "Paul"
+        ]
+      },
+      {
+        "label": "Press a coin into her hand and tell her which way the healer lives",
+        "nextId": 7,
+        "women": [
+          "Priscilla",
+          "Miriam",
+          "MaryMagdalene"
+        ],
+        "men": [
           "Moses",
-          "Peter"
+          "Nehemiah",
+          "Joseph"
+        ]
+      },
+      {
+        "label": "Make the group wait — sit with her until she can breathe again",
+        "nextId": 7,
+        "women": [
+          "Deborah",
+          "Abigail",
+          "Miriam"
+        ],
+        "men": [
+          "Elijah",
+          "Abraham",
+          "Paul"
         ]
       }
     ]
@@ -197,45 +197,45 @@ window.BIBLE_QUIZ_V3_SCENES = {
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "The steep path — let's just get this over with",
+        "label": "Take the steep switchback — lungs burn, hours saved",
         "nextId": 15,
         "women": [
           "Deborah",
           "Miriam",
-          "Priscilla"
+          "MaryMotherOfJesus"
         ],
         "men": [
-          "David",
-          "Paul",
-          "Elijah"
-        ]
-      },
-      {
-        "label": "The gentle path — my knees have opinions",
-        "nextId": 15,
-        "women": [
-          "Ruth",
-          "Martha",
-          "Abigail"
-        ],
-        "men": [
-          "Elijah",
-          "Barnabas",
+          "Nehemiah",
+          "Joseph",
           "Abraham"
         ]
       },
       {
-        "label": "Ask the group — someone else can make this call",
+        "label": "Take the longer ridge walk — easier on the legs, costs daylight",
         "nextId": 15,
         "women": [
-          "Abigail",
           "Esther",
-          "Priscilla"
+          "Miriam",
+          "Ruth"
         ],
         "men": [
           "Moses",
-          "Peter",
-          "Nehemiah"
+          "David",
+          "Abraham"
+        ]
+      },
+      {
+        "label": "Stop the group — make them vote while you're all standing here",
+        "nextId": 15,
+        "women": [
+          "Esther",
+          "Hannah",
+          "MaryMagdalene"
+        ],
+        "men": [
+          "Elijah",
+          "Abraham",
+          "Paul"
         ]
       }
     ]
@@ -246,59 +246,59 @@ window.BIBLE_QUIZ_V3_SCENES = {
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "Stop and join them — when's the last time you skipped a stone?",
-        "nextId": 28,
-        "women": [
-          "Miriam",
-          "Ruth",
-          "Hannah"
-        ],
-        "men": [
-          "Peter",
-          "David",
-          "Barnabas"
-        ]
-      },
-      {
-        "label": "Wave and smile as you pass — keep it moving",
-        "nextId": 28,
-        "women": [
-          "Ruth",
-          "MaryMotherOfJesus",
-          "Hannah"
-        ],
-        "men": [
-          "Abraham",
-          "Moses",
-          "Barnabas"
-        ]
-      },
-      {
-        "label": "\"Where are your parents??\"",
-        "nextId": 28,
-        "women": [
-          "Martha",
-          "Esther",
-          "Abigail"
-        ],
-        "men": [
-          "Nehemiah",
-          "Joseph",
-          "Daniel"
-        ]
-      },
-      {
-        "label": "Eyes on the path — we have a star to follow",
+        "label": "Put down your pack — pick up a flat stone and throw",
         "nextId": 28,
         "women": [
           "Priscilla",
-          "Esther",
-          "Deborah"
+          "Miriam",
+          "Hannah"
         ],
         "men": [
-          "Paul",
           "Daniel",
-          "Nehemiah"
+          "Abraham",
+          "Barnabas"
+        ]
+      },
+      {
+        "label": "Wave, keep walking — don't break stride",
+        "nextId": 28,
+        "women": [
+          "Esther",
+          "Hannah",
+          "MaryMagdalene"
+        ],
+        "men": [
+          "Joseph",
+          "Peter",
+          "Barnabas"
+        ]
+      },
+      {
+        "label": "Scan the bank — \"Who's watching you?\"",
+        "nextId": 28,
+        "women": [
+          "Abigail",
+          "Miriam",
+          "Martha"
+        ],
+        "men": [
+          "David",
+          "Peter",
+          "Paul"
+        ]
+      },
+      {
+        "label": "Keep your eyes on the star — walk past without stopping",
+        "nextId": 28,
+        "women": [
+          "Deborah",
+          "Hannah",
+          "MaryMotherOfJesus"
+        ],
+        "men": [
+          "David",
+          "Elijah",
+          "Abraham"
         ]
       }
     ]
@@ -309,52 +309,52 @@ window.BIBLE_QUIZ_V3_SCENES = {
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "\"Trust the journey.\"",
+        "label": "Point at the star — \"It's still there. We follow it.\"",
         "nextId": 33,
         "women": [
+          "Abigail",
           "MaryMotherOfJesus",
-          "Deborah",
-          "Hannah"
-        ],
-        "men": [
-          "Abraham",
-          "David",
-          "Moses"
-        ]
-      },
-      {
-        "label": "\"Anyone who wants to turn back, no judgment.\"",
-        "nextId": 33,
-        "women": [
-          "Abigail",
-          "Esther",
-          "Priscilla"
-        ],
-        "men": [
-          "Daniel",
-          "Paul",
-          "Nehemiah"
-        ]
-      },
-      {
-        "label": "\"We take turns navigating.\"",
-        "nextId": 33,
-        "women": [
-          "Priscilla",
-          "Abigail",
           "Martha"
         ],
         "men": [
-          "Peter",
+          "David",
+          "Daniel",
+          "Joseph"
+        ]
+      },
+      {
+        "label": "Stop walking — \"Turn back now if you need to. No shame.\"",
+        "nextId": 33,
+        "women": [
+          "Abigail",
+          "Priscilla",
+          "Miriam"
+        ],
+        "men": [
+          "Abraham",
+          "Paul",
+          "Barnabas"
+        ]
+      },
+      {
+        "label": "Pass the lead to someone else — \"Your turn at the front.\"",
+        "nextId": 33,
+        "women": [
+          "Esther",
+          "MaryMagdalene",
+          "Martha"
+        ],
+        "men": [
           "Moses",
-          "Nehemiah"
+          "Joseph",
+          "Barnabas"
         ]
       }
     ]
   },
   "7": {
     "id": 7,
-    "text": "The afternoon sun is brutal. A village appears ahead — but every door is shut and the streets are empty. Cool. Not ominous at all.",
+    "text": "The afternoon sun is brutal. A village appears ahead — but every door is shut and the streets are empty. You knock. Nothing. The group falls quiet. Cool. Not ominous at all.",
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
@@ -371,59 +371,59 @@ window.BIBLE_QUIZ_V3_SCENES = {
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "\"Give them everything. It'll work out somehow.\"",
+        "label": "Empty the packs onto the ground — we eat thin tonight",
         "nextId": 49,
         "women": [
-          "Ruth",
-          "MaryMotherOfJesus",
-          "Martha"
+          "Priscilla",
+          "Hannah",
+          "MaryMotherOfJesus"
         ],
         "men": [
-          "Peter",
-          "Abraham",
-          "Barnabas"
+          "Elijah",
+          "Nehemiah",
+          "Peter"
         ]
       },
       {
-        "label": "\"Half for them, half for us — that's fair math.\"",
+        "label": "Split every bag down the middle — one pile for them, one for us",
+        "nextId": 49,
+        "women": [
+          "Deborah",
+          "MaryMagdalene",
+          "Martha"
+        ],
+        "men": [
+          "Moses",
+          "Abraham",
+          "Peter"
+        ]
+      },
+      {
+        "label": "Don't share a bite of food until he tells us where the soldiers went",
         "nextId": 49,
         "women": [
           "Abigail",
-          "Esther",
+          "Hannah",
           "MaryMagdalene"
         ],
         "men": [
           "Daniel",
           "Joseph",
-          "Nehemiah"
+          "Barnabas"
         ]
       },
       {
-        "label": "\"Tell us what happened first.\"",
+        "label": "Keep our food — but I'll go door to door and see who else is hiding",
         "nextId": 49,
         "women": [
+          "Deborah",
           "Esther",
-          "Abigail",
-          "Priscilla"
+          "MaryMotherOfJesus"
         ],
         "men": [
-          "Daniel",
-          "Nehemiah",
-          "Paul"
-        ]
-      },
-      {
-        "label": "\"We're just passing through — but we'll pray for you.\"",
-        "nextId": 49,
-        "women": [
-          "MaryMotherOfJesus",
-          "MaryMagdalene",
-          "Hannah"
-        ],
-        "men": [
+          "Moses",
           "Paul",
-          "Abraham",
-          "Daniel"
+          "Barnabas"
         ]
       }
     ]
@@ -434,108 +434,108 @@ window.BIBLE_QUIZ_V3_SCENES = {
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "\"We haven't come this far to be let down.\"",
+        "label": "Crouch down — point at the star and make her look up",
         "nextId": 43,
         "women": [
-          "MaryMotherOfJesus",
           "Deborah",
-          "Priscilla"
+          "Abigail",
+          "Martha"
         ],
         "men": [
-          "Abraham",
           "Moses",
-          "Daniel"
+          "Daniel",
+          "Barnabas"
         ]
       },
       {
-        "label": "\"We have each other. That's something.\"",
+        "label": "Pull her into the circle by the fire — don't let her sit alone",
         "nextId": 43,
         "women": [
-          "Ruth",
-          "Miriam",
-          "Abigail"
-        ],
-        "men": [
-          "Peter",
-          "Barnabas",
-          "Abraham"
-        ]
-      },
-      {
-        "label": "\"Honestly? I'm scared too. But we keep going.\"",
-        "nextId": 43,
-        "women": [
-          "MaryMagdalene",
-          "Hannah",
+          "Deborah",
+          "Esther",
           "Ruth"
         ],
         "men": [
-          "Elijah",
-          "Barnabas",
-          "Daniel"
+          "Moses",
+          "Nehemiah",
+          "Joseph"
         ]
       },
       {
-        "label": "Just sit with her quietly — some questions don't need answers",
+        "label": "Admit you're scared — then ask her to walk beside you tomorrow",
         "nextId": 43,
         "women": [
+          "Abigail",
           "Ruth",
-          "MaryMotherOfJesus",
-          "Hannah"
+          "MaryMotherOfJesus"
         ],
         "men": [
-          "Abraham",
-          "Barnabas",
-          "Joseph"
+          "David",
+          "Peter",
+          "Barnabas"
+        ]
+      },
+      {
+        "label": "Say nothing — just stay next to her until she falls asleep",
+        "nextId": 43,
+        "women": [
+          "Deborah",
+          "Priscilla",
+          "MaryMotherOfJesus"
+        ],
+        "men": [
+          "Elijah",
+          "Paul",
+          "Barnabas"
         ]
       }
     ]
   },
   "12": {
     "id": 12,
-    "text": "Each night, the star burns brighter. Someone beside you whispers, 'What do you think it means?'",
+    "text": "Each night, the star burns brighter. Someone beside you whispers, 'What do you think it means?' You don't have words for that yet. What do you do instead?",
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "\"We're close. I can feel it.\"",
+        "label": "Pick up the pace — the star is almost close enough to touch",
         "nextId": 19,
         "women": [
-          "Deborah",
-          "Miriam",
-          "Priscilla"
-        ],
-        "men": [
-          "David",
-          "Peter",
-          "Elijah"
-        ]
-      },
-      {
-        "label": "\"Stay alert. We're not there yet.\"",
-        "nextId": 19,
-        "women": [
-          "Esther",
           "Abigail",
-          "Martha"
+          "Priscilla",
+          "Miriam"
         ],
         "men": [
-          "Daniel",
+          "Moses",
           "Nehemiah",
-          "Joseph"
+          "Paul"
         ]
       },
       {
-        "label": "\"I'm really glad I came.\"",
+        "label": "Double the night watch — something feels off",
         "nextId": 19,
         "women": [
+          "Priscilla",
           "Ruth",
-          "MaryMagdalene",
           "Hannah"
         ],
         "men": [
-          "Barnabas",
+          "Moses",
+          "David",
+          "Abraham"
+        ]
+      },
+      {
+        "label": "Find the person you've walked beside longest — tell them that out loud",
+        "nextId": 19,
+        "women": [
+          "Miriam",
+          "Hannah",
+          "MaryMagdalene"
+        ],
+        "men": [
           "Abraham",
-          "Joseph"
+          "Paul",
+          "Barnabas"
         ]
       }
     ]
@@ -546,59 +546,59 @@ window.BIBLE_QUIZ_V3_SCENES = {
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "Find somewhere quiet to pray",
+        "label": "Walk to the roof or garden where no one will interrupt you",
         "nextId": "RESULT",
         "women": [
-          "MaryMotherOfJesus",
-          "Hannah",
+          "Esther",
+          "Miriam",
+          "Ruth"
+        ],
+        "men": [
+          "David",
+          "Joseph",
+          "Paul"
+        ]
+      },
+      {
+        "label": "Open the shop, field, or ledger — start where you left off",
+        "nextId": "RESULT",
+        "women": [
+          "Abigail",
+          "Miriam",
           "MaryMagdalene"
         ],
         "men": [
-          "Daniel",
-          "Moses",
-          "Joseph"
-        ]
-      },
-      {
-        "label": "Get back to work — but with new eyes",
-        "nextId": "RESULT",
-        "women": [
-          "Martha",
-          "Priscilla",
-          "Esther"
-        ],
-        "men": [
-          "Paul",
           "Nehemiah",
-          "Joseph"
+          "Joseph",
+          "Peter"
         ]
       },
       {
-        "label": "Find everyone I love and tell them EVERYTHING",
+        "label": "Gather your family at the table — start from the star",
         "nextId": "RESULT",
         "women": [
           "Miriam",
-          "Ruth",
-          "Priscilla"
+          "MaryMotherOfJesus",
+          "Martha"
         ],
         "men": [
-          "Peter",
           "Moses",
-          "Barnabas"
+          "Elijah",
+          "Joseph"
         ]
       },
       {
-        "label": "Start planning the next adventure",
+        "label": "Spread the map on the floor — you're already thinking about what's next",
         "nextId": "RESULT",
         "women": [
           "Deborah",
           "Miriam",
-          "MaryMagdalene"
+          "Hannah"
         ],
         "men": [
-          "David",
-          "Elijah",
-          "Paul"
+          "Joseph",
+          "Abraham",
+          "Barnabas"
         ]
       }
     ]
@@ -609,45 +609,45 @@ window.BIBLE_QUIZ_V3_SCENES = {
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "\"We're following the star.\"",
+        "label": "Point up — \"That star. We're walking toward it.\"",
         "nextId": 16,
         "women": [
-          "MaryMagdalene",
+          "Deborah",
+          "Ruth",
+          "Hannah"
+        ],
+        "men": [
+          "David",
+          "Peter",
+          "Barnabas"
+        ]
+      },
+      {
+        "label": "Shrug — \"Honestly? We don't know yet. But we're going.\"",
+        "nextId": 16,
+        "women": [
+          "Abigail",
           "Hannah",
           "MaryMotherOfJesus"
         ],
         "men": [
           "Daniel",
-          "Abraham",
-          "Moses"
+          "Peter",
+          "Paul"
         ]
       },
       {
-        "label": "\"Searching for something. Not sure what yet.\"",
+        "label": "Keep moving your feet — \"Travelers. Nice cave. Can we rest?\"",
         "nextId": 16,
         "women": [
-          "MaryMotherOfJesus",
-          "MaryMagdalene",
-          "Hannah"
+          "Abigail",
+          "Ruth",
+          "MaryMagdalene"
         ],
         "men": [
+          "Moses",
           "Joseph",
-          "Abraham",
-          "Elijah"
-        ]
-      },
-      {
-        "label": "\"Just passing through. Nice cave.\"",
-        "nextId": 16,
-        "women": [
-          "Priscilla",
-          "Martha",
-          "Esther"
-        ],
-        "men": [
-          "Paul",
-          "Nehemiah",
-          "Joseph"
+          "Barnabas"
         ]
       }
     ]
@@ -658,52 +658,52 @@ window.BIBLE_QUIZ_V3_SCENES = {
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "\"What do you mean?\"",
+        "label": "Lean in — \"Explain that. What beginning?\"",
         "nextId": 17,
         "women": [
-          "MaryMagdalene",
           "Esther",
-          "Abigail"
-        ],
-        "men": [
-          "Daniel",
-          "Joseph",
-          "Abraham"
-        ]
-      },
-      {
-        "label": "\"Cool. We should rest while we can.\"",
-        "nextId": 17,
-        "women": [
-          "Martha",
-          "Abigail",
+          "Miriam",
           "Ruth"
         ],
         "men": [
-          "Joseph",
+          "David",
           "Nehemiah",
-          "Barnabas"
+          "Joseph"
         ]
       },
       {
-        "label": "\"Tell us a story?\"",
+        "label": "Drop your pack by the fire — \"Then we rest while we can.\"",
         "nextId": 17,
         "women": [
-          "Ruth",
-          "Hannah",
-          "Priscilla"
+          "Deborah",
+          "Abigail",
+          "Miriam"
         ],
         "men": [
-          "Peter",
-          "Barnabas",
-          "Abraham"
+          "Moses",
+          "David",
+          "Paul"
+        ]
+      },
+      {
+        "label": "Sit cross-legged — \"You look like you've seen things. Tell us one.\"",
+        "nextId": 17,
+        "women": [
+          "Abigail",
+          "Priscilla",
+          "Martha"
+        ],
+        "men": [
+          "Elijah",
+          "Daniel",
+          "Barnabas"
         ]
       }
     ]
   },
   "17": {
     "id": 17,
-    "text": "In the morning, the hermit is gone. Vanished. But the fire is still warm, and there's fresh water by the entrance.",
+    "text": "In the morning, the hermit is gone. Vanished. But the fire is still warm, and there's fresh water by the entrance. You leave an extra waterskin by the cold fire — payment for a host who vanished.",
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
@@ -720,45 +720,45 @@ window.BIBLE_QUIZ_V3_SCENES = {
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "\"Beautiful. Worth every blister.\"",
+        "label": "Sit on the rock edge — let the wind hit your face",
         "nextId": 19,
         "women": [
-          "MaryMagdalene",
-          "Ruth",
-          "Hannah"
+          "Esther",
+          "Priscilla",
+          "Ruth"
         ],
         "men": [
-          "Barnabas",
+          "Moses",
           "Abraham",
+          "Barnabas"
+        ]
+      },
+      {
+        "label": "Point at the glow on the horizon — \"There. That's it.\"",
+        "nextId": 19,
+        "women": [
+          "Esther",
+          "Hannah",
+          "MaryMagdalene"
+        ],
+        "men": [
+          "Moses",
+          "Nehemiah",
           "Joseph"
         ]
       },
       {
-        "label": "\"THAT'S where we're going.\"",
+        "label": "Walk the line — count heads, check ankles and water",
         "nextId": 19,
         "women": [
-          "Deborah",
-          "Miriam",
-          "Priscilla"
+          "Priscilla",
+          "MaryMotherOfJesus",
+          "MaryMagdalene"
         ],
         "men": [
-          "David",
-          "Paul",
-          "Elijah"
-        ]
-      },
-      {
-        "label": "\"Is everyone okay? Headcount?\"",
-        "nextId": 19,
-        "women": [
-          "Martha",
-          "Ruth",
-          "Abigail"
-        ],
-        "men": [
-          "Peter",
-          "Barnabas",
-          "Nehemiah"
+          "Elijah",
+          "Joseph",
+          "Paul"
         ]
       }
     ]
@@ -769,59 +769,59 @@ window.BIBLE_QUIZ_V3_SCENES = {
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "\"I'll handle this. Follow my lead.\"",
+        "label": "Walk to the front — answer every question yourself",
+        "nextId": 20,
+        "women": [
+          "Abigail",
+          "Ruth",
+          "Martha"
+        ],
+        "men": [
+          "Elijah",
+          "Daniel",
+          "Abraham"
+        ]
+      },
+      {
+        "label": "Link arms — no one speaks unless the whole group is present",
+        "nextId": 20,
+        "women": [
+          "Deborah",
+          "Miriam",
+          "Martha"
+        ],
+        "men": [
+          "David",
+          "Daniel",
+          "Joseph"
+        ]
+      },
+      {
+        "label": "Scan the tree line — there has to be another detour",
+        "nextId": 20,
+        "women": [
+          "Esther",
+          "Miriam",
+          "MaryMotherOfJesus"
+        ],
+        "men": [
+          "Elijah",
+          "Nehemiah",
+          "Peter"
+        ]
+      },
+      {
+        "label": "Smile, show empty hands, and let them search the bags",
         "nextId": 20,
         "women": [
           "Deborah",
           "Esther",
-          "Priscilla"
+          "Abigail"
         ],
         "men": [
-          "Moses",
-          "David",
-          "Elijah"
-        ]
-      },
-      {
-        "label": "\"We stick together. Nobody talks alone.\"",
-        "nextId": 20,
-        "women": [
-          "Ruth",
-          "Abigail",
-          "Miriam"
-        ],
-        "men": [
-          "Peter",
-          "Moses",
-          "Nehemiah"
-        ]
-      },
-      {
-        "label": "\"Is there a way around this?\"",
-        "nextId": 20,
-        "women": [
-          "Esther",
-          "Abigail",
-          "Priscilla"
-        ],
-        "men": [
-          "Daniel",
-          "Paul",
-          "Nehemiah"
-        ]
-      },
-      {
-        "label": "\"Stay calm. We're just travelers. We have nothing to hide.\"",
-        "nextId": 20,
-        "women": [
-          "MaryMotherOfJesus",
-          "Hannah",
-          "MaryMagdalene"
-        ],
-        "men": [
+          "Joseph",
           "Abraham",
-          "Paul",
-          "Elijah"
+          "Peter"
         ]
       }
     ]
@@ -835,42 +835,42 @@ window.BIBLE_QUIZ_V3_SCENES = {
         "label": "\"Yes. Weird, I know. But here we are.\"",
         "nextId": 21,
         "women": [
-          "MaryMagdalene",
-          "Deborah",
-          "Miriam"
+          "Priscilla",
+          "Miriam",
+          "Hannah"
         ],
         "men": [
           "David",
-          "Peter",
-          "Elijah"
+          "Paul",
+          "Barnabas"
         ]
       },
       {
         "label": "\"We're pilgrims. We mean no trouble.\"",
         "nextId": 21,
         "women": [
-          "MaryMotherOfJesus",
+          "Esther",
           "Ruth",
-          "Hannah"
+          "MaryMagdalene"
         ],
         "men": [
-          "Abraham",
           "Moses",
-          "Joseph"
+          "David",
+          "Elijah"
         ]
       },
       {
         "label": "\"Curious travelers. That's all.\"",
         "nextId": 21,
         "women": [
-          "Esther",
-          "Priscilla",
-          "Abigail"
+          "Hannah",
+          "MaryMotherOfJesus",
+          "MaryMagdalene"
         ],
         "men": [
-          "Paul",
+          "Moses",
           "Daniel",
-          "Nehemiah"
+          "Barnabas"
         ]
       }
     ]
@@ -881,45 +881,45 @@ window.BIBLE_QUIZ_V3_SCENES = {
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "\"Come with us! Seriously!\"",
+        "label": "Wave him toward the road — \"Leave the post. Come now.\"",
         "nextId": 22,
         "women": [
-          "Miriam",
-          "Ruth",
-          "Priscilla"
+          "Abigail",
+          "Priscilla",
+          "MaryMagdalene"
         ],
         "men": [
-          "Peter",
-          "David",
-          "Elijah"
+          "Moses",
+          "Nehemiah",
+          "Joseph"
         ]
       },
       {
         "label": "\"Thank you. We won't forget this.\"",
         "nextId": 22,
         "women": [
-          "Ruth",
-          "MaryMotherOfJesus",
-          "Hannah"
+          "Deborah",
+          "Abigail",
+          "Miriam"
         ],
         "men": [
-          "Abraham",
-          "Paul",
-          "Joseph"
+          "Elijah",
+          "Joseph",
+          "Paul"
         ]
       },
       {
         "label": "\"When you're ready — follow it.\"",
         "nextId": 22,
         "women": [
+          "Deborah",
           "Priscilla",
-          "Esther",
-          "Abigail"
+          "Martha"
         ],
         "men": [
-          "Paul",
-          "Daniel",
-          "Nehemiah"
+          "Elijah",
+          "Nehemiah",
+          "Abraham"
         ]
       }
     ]
@@ -930,59 +930,59 @@ window.BIBLE_QUIZ_V3_SCENES = {
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "Rush forward — we came all this way",
+        "label": "Push through the stable door first",
         "nextId": 51,
         "women": [
-          "Deborah",
+          "Priscilla",
           "Miriam",
-          "Priscilla"
+          "MaryMotherOfJesus"
         ],
         "men": [
           "David",
           "Peter",
-          "Elijah"
+          "Paul"
         ]
       },
       {
-        "label": "Stand completely still. Take it in.",
-        "nextId": 51,
-        "women": [
-          "MaryMagdalene",
-          "Hannah",
-          "MaryMotherOfJesus"
-        ],
-        "men": [
-          "Daniel",
-          "Moses",
-          "Abraham"
-        ]
-      },
-      {
-        "label": "Look at your companions and just... smile",
-        "nextId": 51,
-        "women": [
-          "Ruth",
-          "Hannah",
-          "Abigail"
-        ],
-        "men": [
-          "Peter",
-          "Elijah",
-          "Abraham"
-        ]
-      },
-      {
-        "label": "Fall to your knees — this is it",
+        "label": "Stop at the threshold — don't go in yet",
         "nextId": 51,
         "women": [
           "MaryMotherOfJesus",
-          "Hannah",
+          "MaryMagdalene",
           "Martha"
         ],
         "men": [
           "Abraham",
+          "Paul",
+          "Barnabas"
+        ]
+      },
+      {
+        "label": "Catch someone's eye across the group — don't speak",
+        "nextId": 51,
+        "women": [
+          "Deborah",
+          "Ruth",
+          "MaryMagdalene"
+        ],
+        "men": [
+          "Joseph",
+          "Peter",
+          "Barnabas"
+        ]
+      },
+      {
+        "label": "Drop to your knees right where you stand",
+        "nextId": 51,
+        "women": [
+          "Abigail",
+          "Ruth",
+          "Hannah"
+        ],
+        "men": [
+          "Moses",
           "Daniel",
-          "Joseph"
+          "Paul"
         ]
       }
     ]
@@ -1009,56 +1009,56 @@ window.BIBLE_QUIZ_V3_SCENES = {
         "label": "\"I learned the journey matters as much as where it leads.\"",
         "nextId": 27,
         "women": [
-          "MaryMagdalene",
-          "Hannah",
-          "Esther"
+          "Miriam",
+          "Ruth",
+          "Martha"
         ],
         "men": [
-          "Daniel",
-          "Moses",
-          "Joseph"
+          "David",
+          "Joseph",
+          "Paul"
         ]
       },
       {
         "label": "\"I learned to trust — even when it didn't make sense.\"",
         "nextId": 27,
         "women": [
-          "Ruth",
-          "MaryMotherOfJesus",
+          "Esther",
+          "Miriam",
           "Hannah"
         ],
         "men": [
-          "Peter",
           "Moses",
-          "Abraham"
+          "Nehemiah",
+          "Paul"
         ]
       },
       {
         "label": "\"I learned courage isn't the absence of fear. It's walking anyway.\"",
         "nextId": 27,
         "women": [
-          "Deborah",
-          "Esther",
-          "Abigail"
+          "MaryMotherOfJesus",
+          "MaryMagdalene",
+          "Martha"
         ],
         "men": [
-          "David",
           "Moses",
-          "Elijah"
+          "Joseph",
+          "Peter"
         ]
       },
       {
         "label": "\"Still figuring that out. Ask me next year.\"",
         "nextId": 27,
         "women": [
-          "MaryMotherOfJesus",
-          "MaryMagdalene",
-          "Ruth"
+          "Abigail",
+          "Miriam",
+          "MaryMagdalene"
         ],
         "men": [
-          "Joseph",
-          "Barnabas",
-          "Daniel"
+          "Peter",
+          "Paul",
+          "Barnabas"
         ]
       }
     ]
@@ -1072,28 +1072,28 @@ window.BIBLE_QUIZ_V3_SCENES = {
         "label": "Make a quiet promise to yourself",
         "nextId": 13,
         "women": [
-          "Esther",
-          "MaryMagdalene",
+          "Abigail",
+          "Ruth",
           "Hannah"
         ],
         "men": [
-          "Paul",
+          "Nehemiah",
           "Daniel",
-          "Moses"
+          "Abraham"
         ]
       },
       {
         "label": "\"Goodbye, star. Thanks for the adventure.\"",
         "nextId": 13,
         "women": [
-          "MaryMagdalene",
-          "Ruth",
-          "Hannah"
+          "Deborah",
+          "Esther",
+          "MaryMagdalene"
         ],
         "men": [
           "Elijah",
-          "Barnabas",
-          "Joseph"
+          "Daniel",
+          "Paul"
         ]
       },
       {
@@ -1101,27 +1101,27 @@ window.BIBLE_QUIZ_V3_SCENES = {
         "nextId": 13,
         "women": [
           "Deborah",
-          "Miriam",
-          "Priscilla"
+          "Priscilla",
+          "MaryMotherOfJesus"
         ],
         "men": [
-          "David",
           "Moses",
-          "Elijah"
+          "David",
+          "Abraham"
         ]
       },
       {
         "label": "Look back — and honor everything it took to get here",
         "nextId": 13,
         "women": [
-          "Ruth",
-          "MaryMotherOfJesus",
-          "Hannah"
+          "Esther",
+          "Abigail",
+          "Martha"
         ],
         "men": [
-          "Paul",
-          "Joseph",
-          "Barnabas"
+          "David",
+          "Daniel",
+          "Peter"
         ]
       }
     ]
@@ -1132,122 +1132,122 @@ window.BIBLE_QUIZ_V3_SCENES = {
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "Accept the challenge — you're about to lose, kid",
+        "label": "Crouch by the water — \"You're on.\"",
         "nextId": 45,
         "women": [
-          "Miriam",
-          "Deborah",
-          "Priscilla"
-        ],
-        "men": [
-          "David",
-          "Peter",
-          "Elijah"
-        ]
-      },
-      {
-        "label": "\"Probably not. But I'll try.\"",
-        "nextId": 45,
-        "women": [
+          "Priscilla",
           "MaryMotherOfJesus",
-          "Hannah",
           "MaryMagdalene"
         ],
         "men": [
-          "Abraham",
-          "Daniel",
-          "Elijah"
-        ]
-      },
-      {
-        "label": "Smile and keep walking — another time, maybe",
-        "nextId": 45,
-        "women": [
-          "MaryMagdalene",
-          "Hannah",
-          "Ruth"
-        ],
-        "men": [
-          "Joseph",
-          "Barnabas",
+          "Elijah",
+          "Nehemiah",
           "Daniel"
         ]
       },
       {
-        "label": "\"Show me your technique first.\"",
+        "label": "Take the stone — throw once, badly, on purpose",
         "nextId": 45,
         "women": [
+          "Miriam",
           "Ruth",
+          "MaryMotherOfJesus"
+        ],
+        "men": [
+          "David",
+          "Daniel",
+          "Joseph"
+        ]
+      },
+      {
+        "label": "Ruffle the kid's hair — keep moving",
+        "nextId": 45,
+        "women": [
+          "Esther",
           "Abigail",
+          "MaryMotherOfJesus"
+        ],
+        "men": [
+          "Nehemiah",
+          "Abraham",
+          "Paul"
+        ]
+      },
+      {
+        "label": "Hold out your hand — \"Show me how you hold it.\"",
+        "nextId": 45,
+        "women": [
+          "Abigail",
+          "Ruth",
           "Hannah"
         ],
         "men": [
-          "Barnabas",
-          "Abraham",
-          "Daniel"
+          "Elijah",
+          "Joseph",
+          "Paul"
         ]
       }
     ]
   },
   "30": {
     "id": 30,
-    "text": "She studies your face, then nods. 'This star feels like a beginning. Don't give up.' Before you can respond, a young guy from the village jogs up, bag already packed. 'Can I come with you?' That was fast.",
+    "text": "The woman on the bench is still watching. Whether you sat with her for an hour or only paused long enough to bow goodbye, she studies your face — then nods. 'This star feels like a beginning. Don't give up.' Before you can respond, a young guy from the village jogs up, bag already packed. 'Can I come with you?' That was fast.",
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "\"Of course. The more the merrier.\"",
-        "nextId": 46,
-        "women": [
-          "Ruth",
-          "Hannah",
-          "Miriam"
-        ],
-        "men": [
-          "Peter",
-          "Barnabas",
-          "David"
-        ]
-      },
-      {
-        "label": "\"It won't be easy. You sure about this?\"",
+        "label": "Clap him on the shoulder — \"Fine. Fall in line.\"",
         "nextId": 46,
         "women": [
           "Priscilla",
-          "Esther",
-          "Abigail"
+          "Ruth",
+          "Hannah"
         ],
         "men": [
-          "Paul",
-          "Daniel",
-          "Nehemiah"
+          "Elijah",
+          "Abraham",
+          "Paul"
         ]
       },
       {
-        "label": "Ask for the grandmother's blessing first",
+        "label": "Look at his thin sandals — \"It's hard. You sure?\"",
         "nextId": 46,
         "women": [
+          "Miriam",
           "Hannah",
-          "MaryMagdalene",
-          "Ruth"
+          "Martha"
         ],
         "men": [
           "Daniel",
-          "Abraham",
+          "Peter",
           "Barnabas"
         ]
       },
       {
-        "label": "\"Did you ask your family?\"",
+        "label": "Turn to the grandmother — \"Do we have your blessing?\"",
         "nextId": 46,
         "women": [
-          "MaryMotherOfJesus",
-          "Martha",
-          "Abigail"
+          "Esther",
+          "MaryMagdalene",
+          "Martha"
         ],
         "men": [
-          "Abraham",
+          "Nehemiah",
+          "Daniel",
+          "Paul"
+        ]
+      },
+      {
+        "label": "Point back toward the village — \"Did anyone at home say yes?\"",
+        "nextId": 46,
+        "women": [
+          "Deborah",
+          "MaryMotherOfJesus",
+          "Martha"
+        ],
+        "men": [
           "Joseph",
-          "Nehemiah"
+          "Paul",
+          "Barnabas"
         ]
       }
     ]
@@ -1258,45 +1258,45 @@ window.BIBLE_QUIZ_V3_SCENES = {
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "Try to catch up with them — maybe they'll share",
+        "label": "Pick up the pace — close the gap before they disappear",
         "nextId": 19,
         "women": [
           "Deborah",
-          "Miriam",
-          "Priscilla"
+          "Priscilla",
+          "MaryMotherOfJesus"
         ],
         "men": [
-          "Peter",
           "Moses",
-          "David"
+          "Nehemiah",
+          "Paul"
         ]
       },
       {
-        "label": "Let them go — we're doing this our way",
+        "label": "Let them pull ahead — keep your group's pace",
         "nextId": 19,
         "women": [
+          "Deborah",
           "Ruth",
-          "MaryMotherOfJesus",
           "Hannah"
         ],
         "men": [
+          "Nehemiah",
           "Joseph",
-          "Abraham",
           "Barnabas"
         ]
       },
       {
-        "label": "Call out to them — \"HEY! WHERE'D YOU GET THOSE BAGS?\"",
+        "label": "Shout across the gap — \"Hey! Where'd you get those packs?\"",
         "nextId": 19,
         "women": [
-          "Priscilla",
-          "Esther",
-          "Abigail"
+          "Hannah",
+          "MaryMotherOfJesus",
+          "Martha"
         ],
         "men": [
-          "Paul",
-          "Peter",
-          "Nehemiah"
+          "Moses",
+          "David",
+          "Peter"
         ]
       }
     ]
@@ -1307,59 +1307,59 @@ window.BIBLE_QUIZ_V3_SCENES = {
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "Search for clues — what happened here?",
+        "label": "Comb through the ashes and torn canvas — look for tracks",
         "nextId": 34,
         "women": [
-          "MaryMagdalene",
-          "Esther",
-          "Abigail"
+          "Deborah",
+          "MaryMotherOfJesus",
+          "MaryMagdalene"
         ],
         "men": [
-          "Daniel",
-          "Nehemiah",
-          "Moses"
-        ]
-      },
-      {
-        "label": "Grab any supplies they left — waste not, want not",
-        "nextId": 36,
-        "women": [
-          "Martha",
-          "Abigail",
-          "Priscilla"
-        ],
-        "men": [
-          "Joseph",
-          "Nehemiah",
+          "Moses",
+          "David",
           "Paul"
         ]
       },
       {
-        "label": "Say a quiet prayer for whoever was here",
-        "nextId": 34,
+        "label": "Salvage what's usable — food, cloth, anything dry",
+        "nextId": 36,
         "women": [
-          "MaryMotherOfJesus",
-          "Ruth",
-          "Hannah"
+          "Esther",
+          "Hannah",
+          "MaryMotherOfJesus"
         ],
         "men": [
-          "Abraham",
-          "Barnabas",
-          "Daniel"
+          "David",
+          "Elijah",
+          "Nehemiah"
         ]
       },
       {
-        "label": "Keep moving — I don't want to know",
+        "label": "Stand over the cold fire — say a short prayer and move on",
+        "nextId": 34,
+        "women": [
+          "Priscilla",
+          "Ruth",
+          "MaryMagdalene"
+        ],
+        "men": [
+          "Moses",
+          "Elijah",
+          "Peter"
+        ]
+      },
+      {
+        "label": "Don't unpack — walk past without stopping",
         "nextId": 36,
         "women": [
           "Deborah",
-          "Priscilla",
-          "Miriam"
+          "Esther",
+          "Priscilla"
         ],
         "men": [
-          "Paul",
-          "David",
-          "Elijah"
+          "Daniel",
+          "Peter",
+          "Paul"
         ]
       }
     ]
@@ -1370,59 +1370,59 @@ window.BIBLE_QUIZ_V3_SCENES = {
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "\"Everyone stay alert.\"",
-        "nextId": 37,
-        "women": [
-          "Esther",
-          "Abigail",
-          "Priscilla"
-        ],
-        "men": [
-          "Daniel",
-          "Nehemiah",
-          "Moses"
-        ]
-      },
-      {
-        "label": "\"They made it further than this camp. That's a good sign?\"",
+        "label": "Close the journal — \"Nobody walks alone from here on.\"",
         "nextId": 37,
         "women": [
           "Deborah",
-          "Priscilla",
-          "Miriam"
+          "Abigail",
+          "Hannah"
         ],
         "men": [
-          "David",
-          "Paul",
-          "Elijah"
+          "Nehemiah",
+          "Abraham",
+          "Paul"
         ]
       },
       {
-        "label": "\"Should we... try to find them?\"",
+        "label": "Flip pages — \"They got farther than this. That means we can too.\"",
         "nextId": 37,
         "women": [
+          "Deborah",
           "Ruth",
-          "Hannah",
-          "Abigail"
+          "Martha"
         ],
         "men": [
-          "Peter",
-          "Barnabas",
+          "Elijah",
+          "Joseph",
           "Abraham"
         ]
       },
       {
-        "label": "Pocket the journal. Keep moving. Process later.",
+        "label": "Look at the tree line — \"Could we still catch them?\"",
         "nextId": 37,
         "women": [
-          "MaryMagdalene",
-          "Esther",
-          "Priscilla"
+          "Abigail",
+          "MaryMotherOfJesus",
+          "Martha"
         ],
         "men": [
+          "David",
           "Daniel",
+          "Abraham"
+        ]
+      },
+      {
+        "label": "Slip the journal into your pack — walk without discussing it",
+        "nextId": 37,
+        "women": [
+          "Esther",
+          "Miriam",
+          "MaryMagdalene"
+        ],
+        "men": [
           "Joseph",
-          "Paul"
+          "Paul",
+          "Barnabas"
         ]
       }
     ]
@@ -1433,59 +1433,59 @@ window.BIBLE_QUIZ_V3_SCENES = {
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "\"HELLO??\" (aggressive friendliness)",
+        "label": "Stand up — shout into the dark: \"WHO'S THERE?\"",
         "nextId": 37,
         "women": [
-          "Deborah",
-          "Miriam",
-          "Priscilla"
-        ],
-        "men": [
-          "Peter",
-          "David",
-          "Elijah"
-        ]
-      },
-      {
-        "label": "Grab something heavy — just in case",
-        "nextId": 37,
-        "women": [
-          "Martha",
-          "Deborah",
-          "Esther"
-        ],
-        "men": [
-          "Moses",
-          "Nehemiah",
-          "David"
-        ]
-      },
-      {
-        "label": "Stay completely still. Listen.",
-        "nextId": 37,
-        "women": [
-          "MaryMagdalene",
-          "Esther",
-          "Hannah"
-        ],
-        "men": [
-          "Daniel",
-          "Elijah",
-          "Abraham"
-        ]
-      },
-      {
-        "label": "Quietly wake everyone else",
-        "nextId": 37,
-        "women": [
-          "Abigail",
-          "Esther",
+          "Ruth",
+          "Hannah",
           "Martha"
         ],
         "men": [
           "Joseph",
+          "Paul",
+          "Barnabas"
+        ]
+      },
+      {
+        "label": "Reach for a branch, rock, or cooking pot",
+        "nextId": 37,
+        "women": [
+          "Abigail",
+          "Hannah",
+          "MaryMagdalene"
+        ],
+        "men": [
           "Nehemiah",
-          "Daniel"
+          "Abraham",
+          "Peter"
+        ]
+      },
+      {
+        "label": "Freeze — don't blink, don't breathe, just listen",
+        "nextId": 37,
+        "women": [
+          "Abigail",
+          "MaryMotherOfJesus",
+          "Martha"
+        ],
+        "men": [
+          "Moses",
+          "Joseph",
+          "Abraham"
+        ]
+      },
+      {
+        "label": "Touch shoulders one by one — wake them without a word",
+        "nextId": 37,
+        "women": [
+          "Esther",
+          "Abigail",
+          "Miriam"
+        ],
+        "men": [
+          "Daniel",
+          "Abraham",
+          "Barnabas"
         ]
       }
     ]
@@ -1509,59 +1509,59 @@ window.BIBLE_QUIZ_V3_SCENES = {
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "Accept his hospitality — we need the rest",
+        "label": "Follow him to the house — accept food and a place to sleep",
         "nextId": 19,
         "women": [
           "Ruth",
           "MaryMotherOfJesus",
+          "MaryMagdalene"
+        ],
+        "men": [
+          "Moses",
+          "Elijah",
+          "Paul"
+        ]
+      },
+      {
+        "label": "Ask before you eat — \"What have people said about that star?\"",
+        "nextId": 19,
+        "women": [
+          "Esther",
+          "Priscilla",
           "Hannah"
         ],
         "men": [
-          "Barnabas",
-          "Abraham",
-          "Joseph"
+          "David",
+          "Elijah",
+          "Barnabas"
         ]
       },
       {
-        "label": "\"What have you heard about the star?\"",
+        "label": "Pull out whatever map you have — \"Which road leads to Bethlehem?\"",
         "nextId": 19,
         "women": [
-          "MaryMagdalene",
-          "Esther",
-          "Abigail"
+          "Deborah",
+          "Priscilla",
+          "MaryMagdalene"
         ],
         "men": [
-          "Daniel",
+          "Moses",
           "Nehemiah",
-          "Joseph"
+          "Daniel"
         ]
       },
       {
-        "label": "\"Which way to Bethlehem?\"",
+        "label": "Roll up your sleeves — \"We'll work an hour, then go.\"",
         "nextId": 19,
         "women": [
           "Priscilla",
-          "Deborah",
-          "Miriam"
-        ],
-        "men": [
-          "Paul",
-          "David",
-          "Elijah"
-        ]
-      },
-      {
-        "label": "Offer to help with farm chores before we leave",
-        "nextId": 19,
-        "women": [
-          "Martha",
           "Miriam",
-          "Abigail"
+          "Ruth"
         ],
         "men": [
-          "Barnabas",
-          "Joseph",
-          "Nehemiah"
+          "Daniel",
+          "Peter",
+          "Paul"
         ]
       }
     ]
@@ -1572,16 +1572,16 @@ window.BIBLE_QUIZ_V3_SCENES = {
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "\"Just point us the way — we've got it from there.\"",
+        "label": "Take his directions — send him back to his sheep immediately",
         "nextId": 44,
         "women": [
+          "Abigail",
           "Priscilla",
-          "Esther",
-          "Martha"
+          "Miriam"
         ],
         "men": [
-          "Paul",
           "Moses",
+          "David",
           "Nehemiah"
         ]
       },
@@ -1589,42 +1589,42 @@ window.BIBLE_QUIZ_V3_SCENES = {
         "label": "\"We saw what they did to that village. We have to go around.\"",
         "nextId": 44,
         "women": [
-          "Deborah",
-          "Miriam",
-          "Ruth"
+          "Abigail",
+          "Hannah",
+          "MaryMotherOfJesus"
         ],
         "men": [
-          "David",
+          "Nehemiah",
           "Peter",
-          "Moses"
+          "Barnabas"
         ]
       },
       {
-        "label": "\"Some of us could stay and watch your sheep?\"",
+        "label": "Split the group — volunteers stay with the flock while the rest follow the path",
         "nextId": 44,
         "women": [
-          "Martha",
+          "Deborah",
           "Abigail",
           "Ruth"
         ],
         "men": [
-          "Barnabas",
-          "Nehemiah",
-          "Joseph"
+          "Moses",
+          "Elijah",
+          "Paul"
         ]
       },
       {
-        "label": "\"Stay with your flock. We'll find another way.\"",
+        "label": "Refuse the shortcut — backtrack and find a longer route on our own",
         "nextId": 44,
         "women": [
-          "Ruth",
-          "MaryMotherOfJesus",
-          "Martha"
+          "Deborah",
+          "Hannah",
+          "MaryMagdalene"
         ],
         "men": [
+          "Moses",
           "Abraham",
-          "Barnabas",
-          "Daniel"
+          "Barnabas"
         ]
       }
     ]
@@ -1635,59 +1635,59 @@ window.BIBLE_QUIZ_V3_SCENES = {
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "Step forward and greet them like I wasn't just panicking",
-        "nextId": 39,
-        "women": [
-          "Deborah",
-          "Miriam",
-          "Priscilla"
-        ],
-        "men": [
-          "Peter",
-          "David",
-          "Moses"
-        ]
-      },
-      {
-        "label": "Accept help, but stay cautious",
+        "label": "Stand up, brush off the dirt, and call out a welcome",
         "nextId": 39,
         "women": [
           "Esther",
-          "Abigail",
+          "Miriam",
           "MaryMagdalene"
         ],
         "men": [
-          "Daniel",
+          "David",
           "Joseph",
-          "Nehemiah"
+          "Paul"
         ]
       },
       {
-        "label": "\"Protect the kids first. Then we talk.\"",
+        "label": "Let them come closer — but keep the fire between you and them",
         "nextId": 39,
         "women": [
-          "Deborah",
-          "Martha",
-          "Esther"
+          "Priscilla",
+          "Ruth",
+          "MaryMagdalene"
         ],
         "men": [
-          "Moses",
-          "Nehemiah",
-          "Elijah"
+          "David",
+          "Elijah",
+          "Daniel"
         ]
       },
       {
-        "label": "Let someone else take point — I'm still catching my breath",
+        "label": "Wave the kids behind you — \"Protect them first. Then we talk.\"",
         "nextId": 39,
         "women": [
           "MaryMotherOfJesus",
-          "Hannah",
-          "Ruth"
+          "MaryMagdalene",
+          "Martha"
         ],
         "men": [
+          "Joseph",
           "Abraham",
-          "Barnabas",
-          "Joseph"
+          "Peter"
+        ]
+      },
+      {
+        "label": "Grab the nearest adult's arm — whisper, \"You talk to them.\"",
+        "nextId": 39,
+        "women": [
+          "Miriam",
+          "Ruth",
+          "Martha"
+        ],
+        "men": [
+          "Elijah",
+          "Nehemiah",
+          "Abraham"
         ]
       }
     ]
@@ -1698,59 +1698,59 @@ window.BIBLE_QUIZ_V3_SCENES = {
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "\"Let's move — we've lost enough time.\"",
+        "label": "Shoulder your pack and start walking before anyone else stalls",
         "nextId": 12,
         "women": [
-          "Deborah",
-          "Priscilla",
-          "Miriam"
-        ],
-        "men": [
-          "Paul",
-          "David",
-          "Elijah"
-        ]
-      },
-      {
-        "label": "\"Let's take a moment to give thanks first.\"",
-        "nextId": 12,
-        "women": [
-          "MaryMotherOfJesus",
-          "Hannah",
-          "MaryMagdalene"
-        ],
-        "men": [
-          "Abraham",
-          "Daniel",
-          "Joseph"
-        ]
-      },
-      {
-        "label": "\"We'll carry your kindness with us.\"",
-        "nextId": 12,
-        "women": [
+          "Esther",
           "Ruth",
-          "Abigail",
           "Martha"
         ],
         "men": [
-          "Peter",
-          "Barnabas",
+          "David",
+          "Joseph",
+          "Paul"
+        ]
+      },
+      {
+        "label": "Circle up — hold hands, one minute, then move",
+        "nextId": 12,
+        "women": [
+          "Priscilla",
+          "MaryMagdalene",
+          "Martha"
+        ],
+        "men": [
+          "David",
+          "Elijah",
+          "Peter"
+        ]
+      },
+      {
+        "label": "Take the shepherd's bread — save half for whoever struggles later",
+        "nextId": 12,
+        "women": [
+          "Deborah",
+          "Esther",
+          "Priscilla"
+        ],
+        "men": [
+          "Daniel",
+          "Joseph",
           "Abraham"
         ]
       },
       {
-        "label": "\"Anyone need rest before we go? No shame.\"",
+        "label": "Make everyone drink water and check their feet before you leave",
         "nextId": 12,
         "women": [
-          "Martha",
-          "Miriam",
-          "Abigail"
+          "Esther",
+          "MaryMotherOfJesus",
+          "MaryMagdalene"
         ],
         "men": [
-          "Barnabas",
-          "Nehemiah",
-          "Joseph"
+          "Elijah",
+          "Joseph",
+          "Barnabas"
         ]
       }
     ]
@@ -1761,45 +1761,45 @@ window.BIBLE_QUIZ_V3_SCENES = {
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "Sit and tell her everything — she seems like she knows things",
+        "label": "Sit on the bench — tell her the whole story from the star onward",
         "nextId": 30,
         "women": [
-          "Ruth",
-          "Hannah",
-          "Miriam"
+          "Deborah",
+          "Abigail",
+          "MaryMagdalene"
         ],
         "men": [
-          "Peter",
-          "Barnabas",
-          "Abraham"
+          "David",
+          "Nehemiah",
+          "Peter"
         ]
       },
       {
-        "label": "\"What do YOU think about the star?\"",
+        "label": "Ask first — \"You've been watching. What do you think it is?\"",
         "nextId": 30,
         "women": [
-          "Esther",
-          "Abigail",
-          "Priscilla"
+          "Deborah",
+          "Priscilla",
+          "Miriam"
         ],
         "men": [
-          "Daniel",
-          "Nehemiah",
+          "Moses",
+          "Peter",
           "Paul"
         ]
       },
       {
-        "label": "Politely decline — we really need to keep moving",
+        "label": "Bow your head — \"We can't stop long. But thank you.\"",
         "nextId": 30,
         "women": [
+          "Abigail",
           "Priscilla",
-          "Esther",
           "Martha"
         ],
         "men": [
-          "Paul",
-          "Joseph",
-          "Nehemiah"
+          "Moses",
+          "David",
+          "Abraham"
         ]
       }
     ]
@@ -1810,59 +1810,59 @@ window.BIBLE_QUIZ_V3_SCENES = {
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "\"One at a time. Carefully.\"",
+        "label": "Line up at the log — \"One at a time. Hand on the shoulder ahead of you.\"",
         "nextId": 32,
         "women": [
-          "Deborah",
-          "Esther",
-          "Priscilla"
+          "Miriam",
+          "Ruth",
+          "MaryMotherOfJesus"
         ],
         "men": [
           "Moses",
+          "Elijah",
+          "Daniel"
+        ]
+      },
+      {
+        "label": "Turn downstream — \"We find a bridge or we wade. No one crosses that yet.\"",
+        "nextId": 32,
+        "women": [
+          "Abigail",
+          "Priscilla",
+          "Martha"
+        ],
+        "men": [
           "David",
+          "Elijah",
           "Nehemiah"
         ]
       },
       {
-        "label": "\"We're going around. I don't care how long it takes.\"",
+        "label": "Step onto the log — weight on the front foot, arms out",
         "nextId": 32,
         "women": [
-          "Martha",
+          "Abigail",
+          "Hannah",
+          "MaryMagdalene"
+        ],
+        "men": [
+          "Moses",
+          "Abraham",
+          "Barnabas"
+        ]
+      },
+      {
+        "label": "Dig through packs — rope, belt, vine, anything to tie the log down",
+        "nextId": 32,
+        "women": [
+          "Esther",
           "Abigail",
           "Ruth"
         ],
         "men": [
           "Joseph",
-          "Nehemiah",
-          "Abraham"
-        ]
-      },
-      {
-        "label": "\"I'll go first and test it.\"",
-        "nextId": 32,
-        "women": [
-          "Deborah",
-          "Miriam",
-          "Priscilla"
-        ],
-        "men": [
-          "David",
-          "Peter",
-          "Elijah"
-        ]
-      },
-      {
-        "label": "\"Can we stabilize it somehow? Rope? Anything?\"",
-        "nextId": 32,
-        "women": [
-          "Abigail",
-          "Esther",
-          "Priscilla"
-        ],
-        "men": [
-          "Daniel",
-          "Nehemiah",
-          "Joseph"
+          "Abraham",
+          "Peter"
         ]
       }
     ]
@@ -1873,45 +1873,45 @@ window.BIBLE_QUIZ_V3_SCENES = {
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "Share a story of my own",
+        "label": "Tell the story of the woman at the well",
         "nextId": 10,
         "women": [
           "Miriam",
-          "Deborah",
-          "Priscilla"
+          "Hannah",
+          "Martha"
         ],
         "men": [
+          "Daniel",
           "Peter",
-          "David",
           "Paul"
         ]
       },
       {
-        "label": "Listen — I learn more that way",
+        "label": "Keep your mouth shut and watch faces in the firelight",
         "nextId": 10,
         "women": [
-          "MaryMagdalene",
-          "Hannah",
-          "MaryMotherOfJesus"
+          "Priscilla",
+          "Miriam",
+          "Ruth"
         ],
         "men": [
+          "Nehemiah",
           "Daniel",
-          "Elijah",
           "Abraham"
         ]
       },
       {
-        "label": "Ask what everyone hopes to find at the end",
+        "label": "Go around the circle — make everyone answer before you do",
         "nextId": 10,
         "women": [
           "Esther",
-          "Miriam",
-          "Priscilla"
+          "Abigail",
+          "Miriam"
         ],
         "men": [
-          "Daniel",
-          "Nehemiah",
-          "Barnabas"
+          "Elijah",
+          "Joseph",
+          "Abraham"
         ]
       }
     ]
@@ -1922,35 +1922,21 @@ window.BIBLE_QUIZ_V3_SCENES = {
     "image": "smaller_images/placeholder.png",
     "choices": [
       {
-        "label": "\"No one gets left behind. Period.\"",
+        "label": "Halt the whole column — \"We all move together or not at all.\"",
         "nextId": 18,
         "women": [
-          "Ruth",
           "Deborah",
+          "Priscilla",
           "Hannah"
         ],
         "men": [
-          "Moses",
+          "Nehemiah",
           "Peter",
           "Barnabas"
         ]
       },
       {
-        "label": "\"Let's make a splint and go slow.\"",
-        "nextId": 18,
-        "women": [
-          "Martha",
-          "Abigail",
-          "Priscilla"
-        ],
-        "men": [
-          "Nehemiah",
-          "Daniel",
-          "Joseph"
-        ]
-      },
-      {
-        "label": "\"I'll stay with them — you all go ahead.\"",
+        "label": "Tear a strip from your pack — bind the ankle, set a slower pace",
         "nextId": 18,
         "women": [
           "Ruth",
@@ -1958,23 +1944,37 @@ window.BIBLE_QUIZ_V3_SCENES = {
           "Martha"
         ],
         "men": [
-          "Joseph",
-          "Barnabas",
-          "Abraham"
+          "Abraham",
+          "Peter",
+          "Paul"
         ]
       },
       {
-        "label": "\"Okay, who's strong enough to carry them?\"",
+        "label": "Kneel beside them — \"Go on. I'll catch up when I can.\"",
         "nextId": 18,
         "women": [
-          "Deborah",
           "Miriam",
+          "Hannah",
           "Martha"
         ],
         "men": [
           "David",
-          "Peter",
-          "Moses"
+          "Elijah",
+          "Abraham"
+        ]
+      },
+      {
+        "label": "Pick the two biggest walkers — build a carry between them",
+        "nextId": 18,
+        "women": [
+          "Abigail",
+          "Ruth",
+          "Hannah"
+        ],
+        "men": [
+          "Moses",
+          "Daniel",
+          "Peter"
         ]
       }
     ]
@@ -1989,55 +1989,55 @@ window.BIBLE_QUIZ_V3_SCENES = {
         "nextId": 23,
         "women": [
           "Deborah",
-          "Miriam",
+          "Abigail",
           "Priscilla"
         ],
         "men": [
           "David",
-          "Peter",
-          "Elijah"
+          "Nehemiah",
+          "Abraham"
         ]
       },
       {
         "label": "Stay silent — words would ruin this",
         "nextId": 23,
         "women": [
-          "MaryMotherOfJesus",
-          "Hannah",
-          "MaryMagdalene"
+          "Esther",
+          "Ruth",
+          "MaryMotherOfJesus"
         ],
         "men": [
-          "Daniel",
-          "Moses",
-          "Joseph"
+          "David",
+          "Elijah",
+          "Daniel"
         ]
       },
       {
         "label": "Reach for whoever is standing next to you",
         "nextId": 23,
         "women": [
-          "Ruth",
-          "Hannah",
-          "Abigail"
+          "Deborah",
+          "Esther",
+          "Martha"
         ],
         "men": [
-          "Peter",
-          "Paul",
-          "Abraham"
+          "Moses",
+          "Elijah",
+          "Barnabas"
         ]
       },
       {
         "label": "Whisper a prayer",
         "nextId": 23,
         "women": [
-          "MaryMotherOfJesus",
+          "Priscilla",
           "Hannah",
           "MaryMagdalene"
         ],
         "men": [
-          "Abraham",
-          "Daniel",
-          "Elijah"
+          "Elijah",
+          "Joseph",
+          "Abraham"
         ]
       }
     ]

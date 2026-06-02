@@ -178,6 +178,22 @@ function vectorFromTraits(traitsString) {
   return vec;
 }
 
+// Manual overrides: trait parsing collapses similar archetypes onto identical vectors.
+// Each character must have a unique vector so nearest-neighbor scoring can reach all 10 results.
+const CHARACTER_VECTOR_OVERRIDES = {
+  Miriam: { action: 1, social: 0, leadership: 1, crisis: 1, spiritual: -1 },
+  Hannah: { action: -1, social: 1, leadership: -1, crisis: -1, spiritual: 0.5 },
+  MaryMotherOfJesus: { action: -1, social: 1, leadership: -1, crisis: 0, spiritual: 1 },
+  Peter: { action: 1, social: 1, leadership: 1, crisis: 1, spiritual: 0 },
+  Paul: { action: 1, social: -1, leadership: 1, crisis: 0.5, spiritual: -1 },
+  Joseph: { action: -1, social: -1, leadership: -1, crisis: 0, spiritual: 0.5 },
+};
+
+function resolveCharacterVector(id, traitsString) {
+  if (CHARACTER_VECTOR_OVERRIDES[id]) return { ...CHARACTER_VECTOR_OVERRIDES[id] };
+  return vectorFromTraits(traitsString);
+}
+
 function extractScenes(quizMd) {
   const lines = quizMd.split(/\r?\n/);
   const scenes = {};
@@ -373,7 +389,7 @@ async function main() {
   const characters = {};
   for (const [id, poolMeta] of Object.entries(poolCharacters)) {
     const card = cards[id];
-    const vector = vectorFromTraits(poolMeta.keyTraits);
+    const vector = resolveCharacterVector(id, poolMeta.keyTraits);
 
     characters[id] = {
       id,

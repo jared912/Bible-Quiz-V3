@@ -1,4 +1,4 @@
-# Bible-Quiz
+# Bible Quiz V4
 
 What Bible character are you? A narrative choose-your-own-adventure personality quiz.
 
@@ -6,10 +6,25 @@ What Bible character are you? A narrative choose-your-own-adventure personality 
 
 - Open `index.html` in your browser.
 
+## Flow map (all scenes & paths)
+
+Visual reference for every scene, full story text, and branch progression:
+
+- **`docs/quiz-flow-map.html`** — open in a browser (graph + path timeline)
+- **`docs/quiz-flow-paths.md`** — linear write-up per path
+- **`docs/quiz-flow-overview.mmd`** — Mermaid structure diagram
+- **`docs/FIGMA-FIGJAM-GUIDE.md`** — how to import into FigJam if needed
+
+Regenerate after editing `BIBLE-CHARACTER-QUIZ.md`:
+
+```bash
+node tools/generate_flow_map.mjs
+```
+
 ## How it works (short version)
 
 - Each choice contributes to 5 personality dimensions.
-- At the end, your dimension scores are matched to the closest Bible character.
+- At the end, your score selects a shortlist of plausible character matches; the same choices always produce the same result.
 - Results are gender-filtered (you choose Man/Woman at the start).
 
 ## Attribution

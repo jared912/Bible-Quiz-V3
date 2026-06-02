@@ -199,7 +199,7 @@ window.BIBLE_QUIZ_V3_CHARACTERS = {
     "keyTraits": "Bold expression, Purpose-driven, Front-leading, Intervenes, Demonstrative",
     "vector": {
       "action": 1,
-      "social": -1,
+      "social": 0,
       "leadership": 1,
       "crisis": 1,
       "spiritual": -1
@@ -296,7 +296,7 @@ window.BIBLE_QUIZ_V3_CHARACTERS = {
       "social": 1,
       "leadership": -1,
       "crisis": -1,
-      "spiritual": 1
+      "spiritual": 0.5
     },
     "card": {
       "strengths": [
@@ -342,7 +342,7 @@ window.BIBLE_QUIZ_V3_CHARACTERS = {
       "action": -1,
       "social": 1,
       "leadership": -1,
-      "crisis": -1,
+      "crisis": 0,
       "spiritual": 1
     },
     "card": {
@@ -715,8 +715,8 @@ window.BIBLE_QUIZ_V3_CHARACTERS = {
       "action": -1,
       "social": -1,
       "leadership": -1,
-      "crisis": -1,
-      "spiritual": 1
+      "crisis": 0,
+      "spiritual": 0.5
     },
     "card": {
       "strengths": [
@@ -810,7 +810,7 @@ window.BIBLE_QUIZ_V3_CHARACTERS = {
       "social": 1,
       "leadership": 1,
       "crisis": 1,
-      "spiritual": -1
+      "spiritual": 0
     },
     "card": {
       "strengths": [
@@ -856,7 +856,7 @@ window.BIBLE_QUIZ_V3_CHARACTERS = {
       "action": 1,
       "social": -1,
       "leadership": 1,
-      "crisis": 1,
+      "crisis": 0.5,
       "spiritual": -1
     },
     "card": {

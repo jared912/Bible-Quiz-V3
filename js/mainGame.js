@@ -36,6 +36,7 @@ let selectedGender = null; // 'woman' | 'man'
 // --- Game state ---
 let currentSceneId = START_SCENE_ID;
 let score = Object.fromEntries(DIM_KEYS.map(k => [k, 0]));
+let choicePath = []; // sceneId|choiceLabel steps — deterministic result fingerprint
 
 // --- Results browsing state ---
 // Keep insertion order from generated data (Women table then Men table).
@@ -133,6 +134,7 @@ function getSceneImage(sceneId) {
 
 function resetScores() {
   score = Object.fromEntries(DIM_KEYS.map(k => [k, 0]));
+  choicePath = [];
 }
 
 function addVectorToScore(vector) {
@@ -172,27 +174,20 @@ function weightedSquaredDistance(a, b) {
 }
 
 function pickResultCharacterId() {
-  const pool = selectedGender === 'woman' ? 'woman' : 'man';
-  const candidates = Object.values(CHARACTERS).filter(c => c?.pool === pool);
-
-  if (candidates.length === 0) throw new Error(`No candidates found for pool: ${pool}`);
-
-  let best = candidates[0];
-  let bestDist = weightedSquaredDistance(score, best.vector);
-
-  for (const c of candidates.slice(1)) {
-    const d = weightedSquaredDistance(score, c.vector);
-    if (d < bestDist) {
-      best = c;
-      bestDist = d;
-    }
+  if (typeof globalThis.BIBLE_QUIZ_V3_pickResult !== 'function') {
+    throw new Error('resultPicker.js must be loaded before mainGame.js');
   }
-
-  return best.id;
+  return globalThis.BIBLE_QUIZ_V3_pickResult({
+    score,
+    pool: selectedGender,
+    choicePath,
+    characters: CHARACTERS,
+  });
 }
 
 function applyChoiceScoring(choice) {
   if (!choice) return;
+  choicePath.push(`${currentSceneId}|${choice.label}`);
   const shortlist = selectedGender === 'woman' ? choice.women : choice.men;
   addVectorToScore(averageVector(shortlist));
 }

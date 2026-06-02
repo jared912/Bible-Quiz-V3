@@ -89,22 +89,22 @@ All paths converge at **Scene 19** (Checkpoint) → **Scene 22** (Stable) → **
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| Bread and water — I'm practical, not dramatic | Scene 2 | Martha, Abigail, Esther | Joseph, Nehemiah, Paul |
-| A small gift — in case we meet someone important | Scene 2 | Ruth, Abigail, Hannah | Peter, Barnabas, Abraham |
-| A journal — someone needs to document this chaos | Scene 2 | Mary Magdalene, Hannah, Esther | Daniel, Joseph, Abraham |
-| Nothing — if the star wanted me prepared, it would've given more notice | Scene 2 | Deborah, Mary (Mother), Miriam | David, Elijah, Moses |
+| Bread, water, and an extra waterskin — basics covered | Scene 2 | Martha, Abigail, Esther | Joseph, Nehemiah, Paul |
+| Coins — you never know what we'll need to buy | Scene 2 | Ruth, Abigail, Hannah | Peter, Barnabas, Abraham |
+| A journal and ink — someone has to write this down | Scene 2 | Mary Magdalene, Hannah, Esther | Daniel, Joseph, Abraham |
+| A knife — for fires, protection… who knows what's out there | Scene 2 | Deborah, Mary (Mother), Miriam | David, Elijah, Moses |
 
 ---
 
 ### SCENE 2 (First Branch)
-**"Dawn. The road splits four ways. *Because of course it does.* A merchant swears the valley is safe. A shepherd insists the hills are faster. Neither of them is coming with you. *Helpful.* So — which way?"**
+**"Dawn. The road splits four ways. *Because of course it does.* A merchant swears the valley is the safest road — if you don't mind the extra miles. A shepherd jabs his thumb at the hills — steeper, but a straighter line toward the light. Neither of them is coming with you. *Helpful.* So — which way?"**
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| The valley — wide, well-traveled, probably has snacks | Scene 3 | Martha, Abigail, Esther | Joseph, Nehemiah, Barnabas |
-| The hills — harder, but we didn't come here for easy | Scene 4 | Deborah, Miriam, Priscilla | David, Moses, Elijah |
-| The river — water knows things. I trust water. | Scene 5 | Ruth, Mary (Mother), Hannah | Abraham, Barnabas, Daniel |
-| The wilderness — no path, just the star | Scene 6 | Deborah, Miriam, Mary (Mother) | David, Moses, Elijah |
+| Take the valley road — longest route, but safest | Scene 3 | Martha, Ruth, Priscilla | Paul, Daniel, Moses |
+| Climb the hills — steeper, but a straight line toward the star | Scene 4 | Deborah, Priscilla, Esther | David, Nehemiah, Barnabas |
+| Follow the river — slow, and it might flood, but hard to get lost | Scene 5 | Ruth, Mary Magdalene, Mary (Mother) | Daniel, Peter, Nehemiah |
+| Cut through the wilderness — shortest way, least safe | Scene 6 | Deborah, Ruth, Mary Magdalene | Peter, Moses, Daniel |
 
 ---
 
@@ -115,13 +115,13 @@ All paths converge at **Scene 19** (Checkpoint) → **Scene 22** (Stable) → **
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| Help her, even if everyone complains | Scene 7 | Ruth, Martha, Mary (Mother) | Peter, Barnabas, Abraham |
-| Draw water for her and point her in the right direction | Scene 7 | Martha, Abigail, Priscilla | Joseph, Nehemiah, Paul |
-| Offer some encouragement, then keep moving | Scene 7 | Mary (Mother), Mary Magdalene, Esther | Abraham, Daniel, Paul |
-| Tell everyone to wait while I sit with her | Scene 7 | Ruth, Mary (Mother), Hannah | Barnabas, Moses, Peter |
+| Turn the group around — walk her toward the healer, even if we lose half a day | Scene 7 | Miriam, Ruth, Hannah | David, Elijah, Joseph |
+| Fill her jars, mark the path, and keep moving | Scene 7 | Esther, Abigail, Ruth | Joseph, Peter, Paul |
+| Press a coin into her hand and tell her which way the healer lives | Scene 7 | Priscilla, Miriam, Mary Magdalene | Moses, Nehemiah, Joseph |
+| Make the group wait — sit with her until she can breathe again | Scene 7 | Deborah, Abigail, Miriam | Elijah, Abraham, Paul |
 
 ### SCENE 7 (Transition)
-**"The afternoon sun is brutal. A village appears ahead — but every door is shut and the streets are empty. *Cool. Not ominous at all.*"**
+**"The afternoon sun is brutal. A village appears ahead — but every door is shut and the streets are empty. You knock. Nothing. The group falls quiet. *Cool. Not ominous at all.*"**
 
 → Continue to Scene 8
 
@@ -130,68 +130,68 @@ All paths converge at **Scene 19** (Checkpoint) → **Scene 22** (Stable) → **
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| "Give them everything. It'll work out somehow." | Scene 49 | Ruth, Mary (Mother), Martha | Peter, Abraham, Barnabas |
-| "Half for them, half for us — that's fair math." | Scene 49 | Abigail, Esther, Mary Magdalene | Daniel, Joseph, Nehemiah |
-| "Tell us what happened first." | Scene 49 | Esther, Abigail, Priscilla | Daniel, Nehemiah, Paul |
-| "We're just passing through — but we'll pray for you." | Scene 49 | Mary (Mother), Mary Magdalene, Hannah | Paul, Abraham, Daniel |
+| Empty the packs onto the ground — we eat thin tonight | Scene 49 | Priscilla, Hannah, Mary (Mother) | Elijah, Nehemiah, Peter |
+| Split every bag down the middle — one pile for them, one for us | Scene 49 | Deborah, Mary Magdalene, Martha | Moses, Abraham, Peter |
+| Don't share a bite of food until he tells us where the soldiers went | Scene 49 | Abigail, Hannah, Mary Magdalene | Daniel, Joseph, Barnabas |
+| Keep our food — but I'll go door to door and see who else is hiding | Scene 49 | Deborah, Esther, Mary (Mother) | Moses, Paul, Barnabas |
 
 ### SCENE 49
 **"The village is hours behind you now, but not forgotten. Night falls. Everyone gathers around a fire and starts sharing stories — maybe to fill the silence, maybe to shake off the heaviness. The stars are out. The star most of all — steady and impossible overhead. Someone nudges you — your turn."**
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| Share a story of my own | Scene 10 | Miriam, Deborah, Priscilla | Peter, David, Paul |
-| Listen — I learn more that way | Scene 10 | Mary Magdalene, Hannah, Mary (Mother) | Daniel, Elijah, Abraham |
-| Ask what everyone hopes to find at the end | Scene 10 | Esther, Miriam, Priscilla | Daniel, Nehemiah, Barnabas |
+| Tell the story of the woman at the well | Scene 10 | Miriam, Hannah, Martha | Daniel, Peter, Paul |
+| Keep your mouth shut and watch faces in the firelight | Scene 10 | Priscilla, Miriam, Ruth | Nehemiah, Daniel, Abraham |
+| Go around the circle — make everyone answer before you do | Scene 10 | Esther, Abigail, Miriam | Elijah, Joseph, Abraham |
 
 ### SCENE 10
 **"A kid in the group tugs your sleeve. 'What if the star leads nowhere?' She's looking at you like you might actually know the answer."**
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| "We haven't come this far to be let down." | Scene 43 | Mary (Mother), Deborah, Priscilla | Abraham, Moses, Daniel |
-| "We have each other. That's something." | Scene 43 | Ruth, Miriam, Abigail | Peter, Barnabas, Abraham |
-| "Honestly? I'm scared too. But we keep going." | Scene 43 | Mary Magdalene, Hannah, Ruth | Elijah, Barnabas, Daniel |
-| Just sit with her quietly — some questions don't need answers | Scene 43 | Ruth, Mary (Mother), Hannah | Abraham, Barnabas, Joseph |
+| Crouch down — point at the star and make her look up | Scene 43 | Deborah, Abigail, Martha | Moses, Daniel, Barnabas |
+| Pull her into the circle by the fire — don't let her sit alone | Scene 43 | Deborah, Esther, Ruth | Moses, Nehemiah, Joseph |
+| Admit you're scared — then ask her to walk beside you tomorrow | Scene 43 | Abigail, Ruth, Mary (Mother) | David, Peter, Barnabas |
+| Say nothing — just stay next to her until she falls asleep | Scene 43 | Deborah, Priscilla, Mary (Mother) | Elijah, Paul, Barnabas |
 
 ### SCENE 43
 **"You wake up to SHOUTING. Torches in the darkness. Footsteps getting closer. Everyone is looking at you like you're in charge now. *When did that happen??* You brace yourself — and then a voice calls out: 'Just shepherds! We saw your fire. Need help?' Your heart is still racing, but his voice is calm."**
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| Step forward and greet them like I wasn't just panicking | Scene 39 | Deborah, Miriam, Priscilla | Peter, David, Moses |
-| Accept help, but stay cautious | Scene 39 | Esther, Abigail, Mary Magdalene | Daniel, Joseph, Nehemiah |
-| "Protect the kids first. Then we talk." | Scene 39 | Deborah, Martha, Esther | Moses, Nehemiah, Elijah |
-| Let someone else take point — I'm still catching my breath | Scene 39 | Mary (Mother), Hannah, Ruth | Abraham, Barnabas, Joseph |
+| Stand up, brush off the dirt, and call out a welcome | Scene 39 | Esther, Miriam, Mary Magdalene | David, Joseph, Paul |
+| Let them come closer — but keep the fire between you and them | Scene 39 | Priscilla, Ruth, Mary Magdalene | David, Elijah, Daniel |
+| Wave the kids behind you — "Protect them first. Then we talk." | Scene 39 | Mary (Mother), Mary Magdalene, Martha | Joseph, Abraham, Peter |
+| Grab the nearest adult's arm — whisper, "You talk to them." | Scene 39 | Miriam, Ruth, Martha | Elijah, Nehemiah, Abraham |
 
 ### SCENE 39
 **"The shepherds have news — and it's not good. 'Soldiers ahead. A checkpoint on the main road.' Your stomach drops. The same soldiers who stripped that village bare. 'There IS a hidden path,' one shepherd offers, 'but I'd have to leave my flock.' He looks back at his sheep, then at you. The weight of the choice is written on his face."**
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| "Just point us the way — we've got it from there." | Scene 44 | Priscilla, Esther, Martha | Paul, Moses, Nehemiah |
-| "We saw what they did to that village. We have to go around." | Scene 44 | Deborah, Miriam, Ruth | David, Peter, Moses |
-| "Some of us could stay and watch your sheep?" | Scene 44 | Martha, Abigail, Ruth | Barnabas, Nehemiah, Joseph |
-| "Stay with your flock. We'll find another way." | Scene 44 | Ruth, Mary (Mother), Martha | Abraham, Barnabas, Daniel |
+| Take his directions — send him back to his sheep immediately | Scene 44 | Abigail, Priscilla, Miriam | Moses, David, Nehemiah |
+| "We saw what they did to that village. We have to go around." | Scene 44 | Abigail, Hannah, Mary (Mother) | Nehemiah, Peter, Barnabas |
+| Split the group — volunteers stay with the flock while the rest follow the path | Scene 44 | Deborah, Abigail, Ruth | Moses, Elijah, Paul |
+| Refuse the shortcut — backtrack and find a longer route on our own | Scene 44 | Deborah, Hannah, Mary Magdalene | Moses, Abraham, Barnabas |
 
 ### SCENE 44
 **"Morning. The shepherds share their bread as you leave. The hidden path worked — you're past the checkpoint. Everyone looks exhausted but somehow lighter. What's the move?"**
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| "Let's move — we've lost enough time." | Scene 12 | Deborah, Priscilla, Miriam | Paul, David, Elijah |
-| "Let's take a moment to give thanks first." | Scene 12 | Mary (Mother), Hannah, Mary Magdalene | Abraham, Daniel, Joseph |
-| "We'll carry your kindness with us." | Scene 12 | Ruth, Abigail, Martha | Peter, Barnabas, Abraham |
-| "Anyone need rest before we go? No shame." | Scene 12 | Martha, Miriam, Abigail | Barnabas, Nehemiah, Joseph |
+| Shoulder your pack and start walking before anyone else stalls | Scene 12 | Esther, Ruth, Martha | David, Joseph, Paul |
+| Circle up — hold hands, one minute, then move | Scene 12 | Priscilla, Mary Magdalene, Martha | David, Elijah, Peter |
+| Take the shepherd's bread — save half for whoever struggles later | Scene 12 | Deborah, Esther, Priscilla | Daniel, Joseph, Abraham |
+| Make everyone drink water and check their feet before you leave | Scene 12 | Esther, Mary (Mother), Mary Magdalene | Elijah, Joseph, Barnabas |
 
 ### SCENE 12
-**"Each night, the star burns brighter. Someone beside you whispers, 'What do you think it means?'"**
+**"Each night, the star burns brighter. Someone beside you whispers, 'What do you think it means?' You don't have words for that yet. What do you do instead?"**
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| "We're close. I can feel it." | Scene 19 | Deborah, Miriam, Priscilla | David, Peter, Elijah |
-| "Stay alert. We're not there yet." | Scene 19 | Esther, Abigail, Martha | Daniel, Nehemiah, Joseph |
-| "I'm really glad I came." | Scene 19 | Ruth, Mary Magdalene, Hannah | Barnabas, Abraham, Joseph |
+| Pick up the pace — the star is almost close enough to touch | Scene 19 | Abigail, Priscilla, Miriam | Moses, Nehemiah, Paul |
+| Double the night watch — something feels off | Scene 19 | Priscilla, Ruth, Hannah | Moses, David, Abraham |
+| Find the person you've walked beside longest — tell them that out loud | Scene 19 | Miriam, Hannah, Mary Magdalene | Abraham, Paul, Barnabas |
 
 ---
 
@@ -202,30 +202,30 @@ All paths converge at **Scene 19** (Checkpoint) → **Scene 22** (Stable) → **
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| The steep path — let's just get this over with | Scene 15 | Deborah, Miriam, Priscilla | David, Paul, Elijah |
-| The gentle path — my knees have opinions | Scene 15 | Ruth, Martha, Abigail | Elijah, Barnabas, Abraham |
-| Ask the group — someone else can make this call | Scene 15 | Abigail, Esther, Priscilla | Moses, Peter, Nehemiah |
+| Take the steep switchback — lungs burn, hours saved | Scene 15 | Deborah, Miriam, Mary (Mother) | Nehemiah, Joseph, Abraham |
+| Take the longer ridge walk — easier on the legs, costs daylight | Scene 15 | Esther, Miriam, Ruth | Moses, David, Abraham |
+| Stop the group — make them vote while you're all standing here | Scene 15 | Esther, Hannah, Mary Magdalene | Elijah, Abraham, Paul |
 
 ### SCENE 15
 **"A hermit emerges from a cave. *Of course there's a hermit.* 'What brings you this way?' he asks, like people just casually wander past his cave all the time."**
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| "We're following the star." | Scene 16 | Mary Magdalene, Hannah, Mary (Mother) | Daniel, Abraham, Moses |
-| "Searching for something. Not sure what yet." | Scene 16 | Mary (Mother), Mary Magdalene, Hannah | Joseph, Abraham, Elijah |
-| "Just passing through. Nice cave." | Scene 16 | Priscilla, Martha, Esther | Paul, Nehemiah, Joseph |
+| Point up — "That star. We're walking toward it." | Scene 16 | Deborah, Ruth, Hannah | David, Peter, Barnabas |
+| Shrug — "Honestly? We don't know yet. But we're going." | Scene 16 | Abigail, Hannah, Mary (Mother) | Daniel, Peter, Paul |
+| Keep moving your feet — "Travelers. Nice cave. Can we rest?" | Scene 16 | Abigail, Ruth, Mary Magdalene | Moses, Joseph, Barnabas |
 
 ### SCENE 16
 **"The hermit strokes his beard — *he absolutely has a beard* — and his eyes go distant. 'The old writings speak of a star like this. A sign of something... beginning.' He looks at you. 'You sure you want to find what's at the end of it?' You're not sure if that was a warning or a blessing."**
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| "What do you mean?" | Scene 17 | Mary Magdalene, Esther, Abigail | Daniel, Joseph, Abraham |
-| "Cool. We should rest while we can." | Scene 17 | Martha, Abigail, Ruth | Joseph, Nehemiah, Barnabas |
-| "Tell us a story?" | Scene 17 | Ruth, Hannah, Priscilla | Peter, Barnabas, Abraham |
+| Lean in — "Explain that. What beginning?" | Scene 17 | Esther, Miriam, Ruth | David, Nehemiah, Joseph |
+| Drop your pack by the fire — "Then we rest while we can." | Scene 17 | Deborah, Abigail, Miriam | Moses, David, Paul |
+| Sit cross-legged — "You look like you've seen things. Tell us one." | Scene 17 | Abigail, Priscilla, Martha | Elijah, Daniel, Barnabas |
 
 ### SCENE 17 (Transition)
-**"In the morning, the hermit is gone. *Vanished.* But the fire is still warm, and there's fresh water by the entrance."**
+**"In the morning, the hermit is gone. *Vanished.* But the fire is still warm, and there's fresh water by the entrance. You leave an extra waterskin by the cold fire — payment for a host who vanished."**
 
 → Continue to Scene 50
 
@@ -234,19 +234,19 @@ All paths converge at **Scene 19** (Checkpoint) → **Scene 22** (Stable) → **
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| "No one gets left behind. Period." | Scene 18 | Ruth, Deborah, Hannah | Moses, Peter, Barnabas |
-| "Let's make a splint and go slow." | Scene 18 | Martha, Abigail, Priscilla | Nehemiah, Daniel, Joseph |
-| "I'll stay with them — you all go ahead." | Scene 18 | Ruth, Mary (Mother), Martha | Joseph, Barnabas, Abraham |
-| "Okay, who's strong enough to carry them?" | Scene 18 | Deborah, Miriam, Martha | David, Peter, Moses |
+| Halt the whole column — "We all move together or not at all." | Scene 18 | Deborah, Priscilla, Hannah | Nehemiah, Peter, Barnabas |
+| Tear a strip from your pack — bind the ankle, set a slower pace | Scene 18 | Ruth, Mary (Mother), Martha | Abraham, Peter, Paul |
+| Kneel beside them — "Go on. I'll catch up when I can." | Scene 18 | Miriam, Hannah, Martha | David, Elijah, Abraham |
+| Pick the two biggest walkers — build a carry between them | Scene 18 | Abigail, Ruth, Hannah | Moses, Daniel, Peter |
 
 ### SCENE 18
 **"From the summit, you can see... everything. Valleys, villages, the curve of the earth. The star is impossibly bright from up here. Nobody speaks for a while. You're the one who breaks the silence."**
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| "Beautiful. Worth every blister." | Scene 19 | Mary Magdalene, Ruth, Hannah | Barnabas, Abraham, Joseph |
-| "THAT'S where we're going." | Scene 19 | Deborah, Miriam, Priscilla | David, Paul, Elijah |
-| "Is everyone okay? Headcount?" | Scene 19 | Martha, Ruth, Abigail | Peter, Barnabas, Nehemiah |
+| Sit on the rock edge — let the wind hit your face | Scene 19 | Esther, Priscilla, Ruth | Moses, Abraham, Barnabas |
+| Point at the glow on the horizon — "There. That's it." | Scene 19 | Esther, Hannah, Mary Magdalene | Moses, Nehemiah, Joseph |
+| Walk the line — count heads, check ankles and water | Scene 19 | Priscilla, Mary (Mother), Mary Magdalene | Elijah, Joseph, Paul |
 
 ---
 
@@ -257,58 +257,58 @@ All paths converge at **Scene 19** (Checkpoint) → **Scene 22** (Stable) → **
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| Stop and join them — when's the last time you skipped a stone? | Scene 28 | Miriam, Ruth, Hannah | Peter, David, Barnabas |
-| Wave and smile as you pass — keep it moving | Scene 28 | Ruth, Mary (Mother), Hannah | Abraham, Moses, Barnabas |
-| "Where are your parents??" | Scene 28 | Martha, Esther, Abigail | Nehemiah, Joseph, Daniel |
-| Eyes on the path — we have a star to follow | Scene 28 | Priscilla, Esther, Deborah | Paul, Daniel, Nehemiah |
+| Put down your pack — pick up a flat stone and throw | Scene 28 | Priscilla, Miriam, Hannah | Daniel, Abraham, Barnabas |
+| Wave, keep walking — don't break stride | Scene 28 | Esther, Hannah, Mary Magdalene | Joseph, Peter, Barnabas |
+| Scan the bank — "Who's watching you?" | Scene 28 | Abigail, Miriam, Martha | David, Peter, Paul |
+| Keep your eyes on the star — walk past without stopping | Scene 28 | Deborah, Hannah, Mary (Mother) | David, Elijah, Abraham |
 
 ### SCENE 28
 **"One of them holds up a stone. 'Bet you can't skip it more than me.' *Ah yes. The universal language of children: competition.*"**
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| Accept the challenge — you're about to lose, kid | Scene 45 | Miriam, Deborah, Priscilla | David, Peter, Elijah |
-| "Probably not. But I'll try." | Scene 45 | Mary (Mother), Hannah, Mary Magdalene | Abraham, Daniel, Elijah |
-| Smile and keep walking — another time, maybe | Scene 45 | Mary Magdalene, Hannah, Ruth | Joseph, Barnabas, Daniel |
-| "Show me your technique first." | Scene 45 | Ruth, Abigail, Hannah | Barnabas, Abraham, Daniel |
+| Crouch by the water — "You're on." | Scene 45 | Priscilla, Mary (Mother), Mary Magdalene | Elijah, Nehemiah, Daniel |
+| Take the stone — throw once, badly, on purpose | Scene 45 | Miriam, Ruth, Mary (Mother) | David, Daniel, Joseph |
+| Ruffle the kid's hair — keep moving | Scene 45 | Esther, Abigail, Mary (Mother) | Nehemiah, Abraham, Paul |
+| Hold out your hand — "Show me how you hold it." | Scene 45 | Abigail, Ruth, Hannah | Elijah, Joseph, Paul |
 
 ### SCENE 45
 **"An older woman has been watching from a bench by the water — you realize she's been there the whole time. 'Star-followers,' she says, like she's confirming something to herself. 'Come. Sit. I want to hear where you're headed.'"**
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| Sit and tell her everything — she seems like she knows things | Scene 30 | Ruth, Hannah, Miriam | Peter, Barnabas, Abraham |
-| "What do YOU think about the star?" | Scene 30 | Esther, Abigail, Priscilla | Daniel, Nehemiah, Paul |
-| Politely decline — we really need to keep moving | Scene 30 | Priscilla, Esther, Martha | Paul, Joseph, Nehemiah |
+| Sit on the bench — tell her the whole story from the star onward | Scene 30 | Deborah, Abigail, Mary Magdalene | David, Nehemiah, Peter |
+| Ask first — "You've been watching. What do you think it is?" | Scene 30 | Deborah, Priscilla, Miriam | Moses, Peter, Paul |
+| Bow your head — "We can't stop long. But thank you." | Scene 30 | Abigail, Priscilla, Martha | Moses, David, Abraham |
 
 ### SCENE 30
-**"She studies your face, then nods. 'This star feels like a beginning. Don't give up.' Before you can respond, a young guy from the village jogs up, bag already packed. 'Can I come with you?' *That was fast.*"**
+**"The woman on the bench is still watching. Whether you sat with her for an hour or only paused long enough to bow goodbye, she studies your face — then nods. 'This star feels like a beginning. Don't give up.' Before you can respond, a young guy from the village jogs up, bag already packed. 'Can I come with you?' *That was fast.*"**
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| "Of course. The more the merrier." | Scene 46 | Ruth, Hannah, Miriam | Peter, Barnabas, David |
-| "It won't be easy. You sure about this?" | Scene 46 | Priscilla, Esther, Abigail | Paul, Daniel, Nehemiah |
-| Ask for the grandmother's blessing first | Scene 46 | Hannah, Mary Magdalene, Ruth | Daniel, Abraham, Barnabas |
-| "Did you ask your family?" | Scene 46 | Mary (Mother), Martha, Abigail | Abraham, Joseph, Nehemiah |
+| Clap him on the shoulder — "Fine. Fall in line." | Scene 46 | Priscilla, Ruth, Hannah | Elijah, Abraham, Paul |
+| Look at his thin sandals — "It's hard. You sure?" | Scene 46 | Miriam, Hannah, Martha | Daniel, Peter, Barnabas |
+| Turn to the grandmother — "Do we have your blessing?" | Scene 46 | Esther, Mary Magdalene, Martha | Nehemiah, Daniel, Paul |
+| Point back toward the village — "Did anyone at home say yes?" | Scene 46 | Deborah, Mary (Mother), Martha | Joseph, Paul, Barnabas |
 
 ### SCENE 46
 **"The path ahead is flooded. The only way across is a log that looks like it's held together by hope and moss. *Fantastic.* How do you handle this?"**
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| "One at a time. Carefully." | Scene 32 | Deborah, Esther, Priscilla | Moses, David, Nehemiah |
-| "We're going around. I don't care how long it takes." | Scene 32 | Martha, Abigail, Ruth | Joseph, Nehemiah, Abraham |
-| "I'll go first and test it." | Scene 32 | Deborah, Miriam, Priscilla | David, Peter, Elijah |
-| "Can we stabilize it somehow? Rope? Anything?" | Scene 32 | Abigail, Esther, Priscilla | Daniel, Nehemiah, Joseph |
+| Line up at the log — "One at a time. Hand on the shoulder ahead of you." | Scene 32 | Miriam, Ruth, Mary (Mother) | Moses, Elijah, Daniel |
+| Turn downstream — "We find a bridge or we wade. No one crosses that yet." | Scene 32 | Abigail, Priscilla, Martha | David, Elijah, Nehemiah |
+| Step onto the log — weight on the front foot, arms out | Scene 32 | Abigail, Hannah, Mary Magdalene | Moses, Abraham, Barnabas |
+| Dig through packs — rope, belt, vine, anything to tie the log down | Scene 32 | Esther, Abigail, Ruth | Joseph, Abraham, Peter |
 
 ### SCENE 32
 **"Another group of travelers appears ahead — also following the star. They have much better supplies. *Embarrassingly* better. What's your move?"**
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| Try to catch up with them — maybe they'll share | Scene 19 | Deborah, Miriam, Priscilla | Peter, Moses, David |
-| Let them go — we're doing this our way | Scene 19 | Ruth, Mary (Mother), Hannah | Joseph, Abraham, Barnabas |
-| Call out to them — "HEY! WHERE'D YOU GET THOSE BAGS?" | Scene 19 | Priscilla, Esther, Abigail | Paul, Peter, Nehemiah |
+| Pick up the pace — close the gap before they disappear | Scene 19 | Deborah, Priscilla, Mary (Mother) | Moses, Nehemiah, Paul |
+| Let them pull ahead — keep your group's pace | Scene 19 | Deborah, Ruth, Hannah | Nehemiah, Joseph, Barnabas |
+| Shout across the gap — "Hey! Where'd you get those packs?" | Scene 19 | Hannah, Mary (Mother), Martha | Moses, David, Peter |
 
 ---
 
@@ -319,39 +319,39 @@ All paths converge at **Scene 19** (Checkpoint) → **Scene 22** (Stable) → **
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| "Trust the journey." | Scene 33 | Mary (Mother), Deborah, Hannah | Abraham, David, Moses |
-| "Anyone who wants to turn back, no judgment." | Scene 33 | Abigail, Esther, Priscilla | Daniel, Paul, Nehemiah |
-| "We take turns navigating." | Scene 33 | Priscilla, Abigail, Martha | Peter, Moses, Nehemiah |
+| Point at the star — "It's still there. We follow it." | Scene 33 | Abigail, Mary (Mother), Martha | David, Daniel, Joseph |
+| Stop walking — "Turn back now if you need to. No shame." | Scene 33 | Abigail, Priscilla, Miriam | Abraham, Paul, Barnabas |
+| Pass the lead to someone else — "Your turn at the front." | Scene 33 | Esther, Mary Magdalene, Martha | Moses, Joseph, Barnabas |
 
 ### SCENE 33
 **"You find an abandoned camp. Cold fire pit. Torn tent. Whoever was here left in a hurry."**
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| Search for clues — what happened here? | Scene 34 | Mary Magdalene, Esther, Abigail | Daniel, Nehemiah, Moses |
-| Grab any supplies they left — waste not, want not | Scene 36 | Martha, Abigail, Priscilla | Joseph, Nehemiah, Paul |
-| Say a quiet prayer for whoever was here | Scene 34 | Mary (Mother), Ruth, Hannah | Abraham, Barnabas, Daniel |
-| Keep moving — I don't want to know | Scene 36 | Deborah, Priscilla, Miriam | Paul, David, Elijah |
+| Comb through the ashes and torn canvas — look for tracks | Scene 34 | Deborah, Mary (Mother), Mary Magdalene | Moses, David, Paul |
+| Salvage what's usable — food, cloth, anything dry | Scene 36 | Esther, Hannah, Mary (Mother) | David, Elijah, Nehemiah |
+| Stand over the cold fire — say a short prayer and move on | Scene 34 | Priscilla, Ruth, Mary Magdalene | Moses, Elijah, Peter |
+| Don't unpack — walk past without stopping | Scene 36 | Deborah, Esther, Priscilla | Daniel, Peter, Paul |
 
 ### SCENE 34
 **"You find a journal. The last entry says: 'Something is following us.' The next page is blank. No one says anything for a moment."**
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| "Everyone stay alert." | Scene 37 | Esther, Abigail, Priscilla | Daniel, Nehemiah, Moses |
-| "They made it further than this camp. That's a good sign?" | Scene 37 | Deborah, Priscilla, Miriam | David, Paul, Elijah |
-| "Should we... try to find them?" | Scene 37 | Ruth, Hannah, Abigail | Peter, Barnabas, Abraham |
-| Pocket the journal. Keep moving. Process later. | Scene 37 | Mary Magdalene, Esther, Priscilla | Daniel, Joseph, Paul |
+| Close the journal — "Nobody walks alone from here on." | Scene 37 | Deborah, Abigail, Hannah | Nehemiah, Abraham, Paul |
+| Flip pages — "They got farther than this. That means we can too." | Scene 37 | Deborah, Ruth, Martha | Elijah, Joseph, Abraham |
+| Look at the tree line — "Could we still catch them?" | Scene 37 | Abigail, Mary (Mother), Martha | David, Daniel, Abraham |
+| Slip the journal into your pack — walk without discussing it | Scene 37 | Esther, Miriam, Mary Magdalene | Joseph, Paul, Barnabas |
 
 ### SCENE 36
 **"That night — a noise. Something moving just outside the firelight. Everyone freezes. What do you do?"**
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| "HELLO??" (aggressive friendliness) | Scene 37 | Deborah, Miriam, Priscilla | Peter, David, Elijah |
-| Grab something heavy — just in case | Scene 37 | Martha, Deborah, Esther | Moses, Nehemiah, David |
-| Stay completely still. Listen. | Scene 37 | Mary Magdalene, Esther, Hannah | Daniel, Elijah, Abraham |
-| Quietly wake everyone else | Scene 37 | Abigail, Esther, Martha | Joseph, Nehemiah, Daniel |
+| Stand up — shout into the dark: "WHO'S THERE?" | Scene 37 | Ruth, Hannah, Martha | Joseph, Paul, Barnabas |
+| Reach for a branch, rock, or cooking pot | Scene 37 | Abigail, Hannah, Mary Magdalene | Nehemiah, Abraham, Peter |
+| Freeze — don't blink, don't breathe, just listen | Scene 37 | Abigail, Mary (Mother), Martha | Moses, Joseph, Abraham |
+| Touch shoulders one by one — wake them without a word | Scene 37 | Esther, Abigail, Miriam | Daniel, Abraham, Barnabas |
 
 ### SCENE 37 (Transition)
 **"It's a fox. *Just a fox.* Everyone exhales. By morning, the wilderness gives way to farmland. *Civilization. Finally.*"**
@@ -363,10 +363,10 @@ All paths converge at **Scene 19** (Checkpoint) → **Scene 22** (Stable) → **
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| Accept his hospitality — we need the rest | Scene 19 | Ruth, Mary (Mother), Hannah | Barnabas, Abraham, Joseph |
-| "What have you heard about the star?" | Scene 19 | Mary Magdalene, Esther, Abigail | Daniel, Nehemiah, Joseph |
-| "Which way to Bethlehem?" | Scene 19 | Priscilla, Deborah, Miriam | Paul, David, Elijah |
-| Offer to help with farm chores before we leave | Scene 19 | Martha, Miriam, Abigail | Barnabas, Joseph, Nehemiah |
+| Follow him to the house — accept food and a place to sleep | Scene 19 | Ruth, Mary (Mother), Mary Magdalene | Moses, Elijah, Paul |
+| Ask before you eat — "What have people said about that star?" | Scene 19 | Esther, Priscilla, Hannah | David, Elijah, Barnabas |
+| Pull out whatever map you have — "Which road leads to Bethlehem?" | Scene 19 | Deborah, Priscilla, Mary Magdalene | Moses, Nehemiah, Daniel |
+| Roll up your sleeves — "We'll work an hour, then go." | Scene 19 | Priscilla, Miriam, Ruth | Daniel, Peter, Paul |
 
 ---
 
@@ -377,48 +377,48 @@ All paths converge at **Scene 19** (Checkpoint) → **Scene 22** (Stable) → **
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| "I'll handle this. Follow my lead." | Scene 20 | Deborah, Esther, Priscilla | Moses, David, Elijah |
-| "We stick together. Nobody talks alone." | Scene 20 | Ruth, Abigail, Miriam | Peter, Moses, Nehemiah |
-| "Is there a way around this?" | Scene 20 | Esther, Abigail, Priscilla | Daniel, Paul, Nehemiah |
-| "Stay calm. We're just travelers. We have nothing to hide." | Scene 20 | Mary (Mother), Hannah, Mary Magdalene | Abraham, Paul, Elijah |
+| Walk to the front — answer every question yourself | Scene 20 | Abigail, Ruth, Martha | Elijah, Daniel, Abraham |
+| Link arms — no one speaks unless the whole group is present | Scene 20 | Deborah, Miriam, Martha | David, Daniel, Joseph |
+| Scan the tree line — there has to be another detour | Scene 20 | Esther, Miriam, Mary (Mother) | Elijah, Nehemiah, Peter |
+| Smile, show empty hands, and let them search the bags | Scene 20 | Deborah, Esther, Abigail | Joseph, Abraham, Peter |
 
 ### SCENE 20
 **"The soldier squints at you. 'So you're following... a star.' His skepticism is obvious. 'That's really what you're doing?'"**
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| "Yes. Weird, I know. But here we are." | Scene 21 | Mary Magdalene, Deborah, Miriam | David, Peter, Elijah |
-| "We're pilgrims. We mean no trouble." | Scene 21 | Mary (Mother), Ruth, Hannah | Abraham, Moses, Joseph |
-| "Curious travelers. That's all." | Scene 21 | Esther, Priscilla, Abigail | Paul, Daniel, Nehemiah |
+| "Yes. Weird, I know. But here we are." | Scene 21 | Priscilla, Miriam, Hannah | David, Paul, Barnabas |
+| "We're pilgrims. We mean no trouble." | Scene 21 | Esther, Ruth, Mary Magdalene | Moses, David, Elijah |
+| "Curious travelers. That's all." | Scene 21 | Hannah, Mary (Mother), Mary Magdalene | Moses, Daniel, Barnabas |
 
 ### SCENE 21
 **"The soldier pauses. Looks at the star. Back at you. 'I've thought about following it myself.' Then he waves you through. *Wait, really?* What do you say?"**
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| "Come with us! Seriously!" | Scene 22 | Miriam, Ruth, Priscilla | Peter, David, Elijah |
-| "Thank you. We won't forget this." | Scene 22 | Ruth, Mary (Mother), Hannah | Abraham, Paul, Joseph |
-| "When you're ready — follow it." | Scene 22 | Priscilla, Esther, Abigail | Paul, Daniel, Nehemiah |
+| Wave him toward the road — "Leave the post. Come now." | Scene 22 | Abigail, Priscilla, Mary Magdalene | Moses, Nehemiah, Joseph |
+| "Thank you. We won't forget this." | Scene 22 | Deborah, Abigail, Miriam | Elijah, Joseph, Paul |
+| "When you're ready — follow it." | Scene 22 | Deborah, Priscilla, Martha | Elijah, Nehemiah, Abraham |
 
 ### SCENE 22
 **"A stable. *That's it? A stable.* But the star is directly overhead, brighter than ever. And from inside — a baby crying. What do you do?"**
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| Rush forward — we came all this way | Scene 51 | Deborah, Miriam, Priscilla | David, Peter, Elijah |
-| Stand completely still. Take it in. | Scene 51 | Mary Magdalene, Hannah, Mary (Mother) | Daniel, Moses, Abraham |
-| Look at your companions and just... smile | Scene 51 | Ruth, Hannah, Abigail | Peter, Elijah, Abraham |
-| Fall to your knees — this is it | Scene 51 | Mary (Mother), Hannah, Martha | Abraham, Daniel, Joseph |
+| Push through the stable door first | Scene 51 | Priscilla, Miriam, Mary (Mother) | David, Peter, Paul |
+| Stop at the threshold — don't go in yet | Scene 51 | Mary (Mother), Mary Magdalene, Martha | Abraham, Paul, Barnabas |
+| Catch someone's eye across the group — don't speak | Scene 51 | Deborah, Ruth, Mary Magdalene | Joseph, Peter, Barnabas |
+| Drop to your knees right where you stand | Scene 51 | Abigail, Ruth, Hannah | Moses, Daniel, Paul |
 
 ### SCENE 51
 **"A young mother. An infant. A star that journeyed across the heavens to shine on THIS moment. Somehow, impossibly, you know: you were always supposed to be here. How do you respond?"**
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| "We found it." | Scene 23 | Deborah, Miriam, Priscilla | David, Peter, Elijah |
-| Stay silent — words would ruin this | Scene 23 | Mary (Mother), Hannah, Mary Magdalene | Daniel, Moses, Joseph |
-| Reach for whoever is standing next to you | Scene 23 | Ruth, Hannah, Abigail | Peter, Paul, Abraham |
-| Whisper a prayer | Scene 23 | Mary (Mother), Hannah, Mary Magdalene | Abraham, Daniel, Elijah |
+| "We found it." | Scene 23 | Deborah, Abigail, Priscilla | David, Nehemiah, Abraham |
+| Stay silent — words would ruin this | Scene 23 | Esther, Ruth, Mary (Mother) | David, Elijah, Daniel |
+| Reach for whoever is standing next to you | Scene 23 | Deborah, Esther, Martha | Moses, Elijah, Barnabas |
+| Whisper a prayer | Scene 23 | Priscilla, Hannah, Mary Magdalene | Elijah, Joseph, Abraham |
 
 ### SCENE 23 (Transition)
 **"Dawn breaks. The journey is coming to an end, but one question remains."**
@@ -430,20 +430,20 @@ All paths converge at **Scene 19** (Checkpoint) → **Scene 22** (Stable) → **
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| "I learned the journey matters as much as where it leads." | Scene 27 | Mary Magdalene, Hannah, Esther | Daniel, Moses, Joseph |
-| "I learned to trust — even when it didn't make sense." | Scene 27 | Ruth, Mary (Mother), Hannah | Peter, Moses, Abraham |
-| "I learned courage isn't the absence of fear. It's walking anyway." | Scene 27 | Deborah, Esther, Abigail | David, Moses, Elijah |
-| "Still figuring that out. Ask me next year." | Scene 27 | Mary (Mother), Mary Magdalene, Ruth | Joseph, Barnabas, Daniel |
+| "I learned the journey matters as much as where it leads." | Scene 27 | Miriam, Ruth, Martha | David, Joseph, Paul |
+| "I learned to trust — even when it didn't make sense." | Scene 27 | Esther, Miriam, Hannah | Moses, Nehemiah, Paul |
+| "I learned courage isn't the absence of fear. It's walking anyway." | Scene 27 | Mary (Mother), Mary Magdalene, Martha | Moses, Joseph, Peter |
+| "Still figuring that out. Ask me next year." | Scene 27 | Abigail, Miriam, Mary Magdalene | Peter, Paul, Barnabas |
 
 ### SCENE 27
 **"Standing in the stable, you take one last look at the star. What do you do with this moment?"**
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| Make a quiet promise to yourself | Scene 13 | Esther, Mary Magdalene, Hannah | Paul, Daniel, Moses |
-| "Goodbye, star. Thanks for the adventure." | Scene 13 | Mary Magdalene, Ruth, Hannah | Elijah, Barnabas, Joseph |
-| Look forward — to whatever's next | Scene 13 | Deborah, Miriam, Priscilla | David, Moses, Elijah |
-| Look back — and honor everything it took to get here | Scene 13 | Ruth, Mary (Mother), Hannah | Paul, Joseph, Barnabas |
+| Make a quiet promise to yourself | Scene 13 | Abigail, Ruth, Hannah | Nehemiah, Daniel, Abraham |
+| "Goodbye, star. Thanks for the adventure." | Scene 13 | Deborah, Esther, Mary Magdalene | Elijah, Daniel, Paul |
+| Look forward — to whatever's next | Scene 13 | Deborah, Priscilla, Mary (Mother) | Moses, David, Abraham |
+| Look back — and honor everything it took to get here | Scene 13 | Esther, Abigail, Martha | David, Daniel, Peter |
 
 ---
 
@@ -452,10 +452,10 @@ All paths converge at **Scene 19** (Checkpoint) → **Scene 22** (Stable) → **
 
 | Choice | Goes to | Women Characters | Men Characters |
 |--------|---------|------------------|----------------|
-| Find somewhere quiet to pray | RESULT | Mary (Mother), Hannah, Mary Magdalene | Daniel, Moses, Joseph |
-| Get back to work — but with new eyes | RESULT | Martha, Priscilla, Esther | Paul, Nehemiah, Joseph |
-| Find everyone I love and tell them EVERYTHING | RESULT | Miriam, Ruth, Priscilla | Peter, Moses, Barnabas |
-| Start planning the next adventure | RESULT | Deborah, Miriam, Mary Magdalene | David, Elijah, Paul |
+| Walk to the roof or garden where no one will interrupt you | RESULT | Esther, Miriam, Ruth | David, Joseph, Paul |
+| Open the shop, field, or ledger — start where you left off | RESULT | Abigail, Miriam, Mary Magdalene | Nehemiah, Joseph, Peter |
+| Gather your family at the table — start from the star | RESULT | Miriam, Mary (Mother), Martha | Moses, Elijah, Joseph |
+| Spread the map on the floor — you're already thinking about what's next | RESULT | Deborah, Miriam, Hannah | Joseph, Abraham, Barnabas |
 
 ---
 
